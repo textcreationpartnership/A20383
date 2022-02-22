@@ -1,0 +1,1211 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>All the statutes of the stannary. 1562</title>
+            <title>Charters and statutes</title>
+            <author>Devon (England). Stannaries.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1562</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 121 KB of XML-encoded text transcribed from 36 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A20383</idno>
+            <idno type="STC">STC 6795.8</idno>
+            <idno type="STC">ESTC S105310</idno>
+            <idno type="EEBO-CITATION">99841039</idno>
+            <idno type="PROQUEST">99841039</idno>
+            <idno type="VID">5597</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A20383)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 5597)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 215:12)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>All the statutes of the stannary. 1562</title>
+                  <title>Charters and statutes</title>
+                  <author>Devon (England). Stannaries.</author>
+               </titleStmt>
+               <extent>[64] p.   </extent>
+               <publicationStmt>
+                  <publisher>By VVilliam Seres, dvvelling at the vvest ende of Paules churche at the signe of the Hedgehogge,</publisher>
+                  <pubPlace>[Imprinted at London :</pubPlace>
+                  <date>Anno post Christum natum. 1562. Mense Maij]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Signatures: A-H⁴.</note>
+                  <note>Identified as STC 6796+ on UMI microfilm.</note>
+                  <note>Reproduction of the original in the Henry E. Huntington Library and Art Gallery.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Mining law --  England --  Devon --  Early works to 1800.</term>
+               <term>Tin --  Devon (England) --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2006-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2006-09</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-04</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2009-04</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="confirmation">
+            <pb facs="tcp:5597:1"/>
+            <pb facs="tcp:5597:1"/>
+            <head>All the ſtatutes of the Stannary. 1562.</head>
+            <p>
+               <figure/>
+            </p>
+            <p>
+               <seg rend="decorInit">H</seg>Ere foloweth the Confirmation of the Char<g ref="char:EOLhyphen"/>ter, perteynynge to all the Tynners within the countie of Deuonſhyre, with their Sta<g ref="char:EOLhyphen"/>tutes alſo made at Crockerentorre by the hole aſſent and concent of all the ſaide Tynners, In the yere of the raigne of our ſoueraine Lorde kynge Henry the eyghte. The. ii. yere.</p>
+            <div type="part">
+               <pb facs="tcp:5597:2"/>
+               <p>
+                  <seg rend="decorInit">H</seg>Enry by the grace of god kynge of England and Fraunce, lord of Ire<g ref="char:EOLhyphen"/>lande, To al and ſinguler to whom theſe preſent letters ſhal come gre<g ref="char:EOLhyphen"/>tyng. We vnderſtand by the letters patentes of the late ſoueraine lorde Edwarde the fourth kynge of Eng<g ref="char:EOLhyphen"/>land, a confirmation was made by theſe wordes.</p>
+               <p>¶ Edwarde by the grace of god kyng of Englande, and Fraunce, lorde of Irelande, To all to whom theſe pre<g ref="char:EOLhyphen"/>ſentes ſhall come greting. We vnderſtande by theſe let<g ref="char:EOLhyphen"/>ters patentes of the ſoueraine lord Edward the third, late kinge of Englande our progenitour made in theſe wordes.</p>
+               <p>¶ Edwarde by the grace of god king of Englande and Fraunce, lord of Irelande, To all to whom theſe pre<g ref="char:EOLhyphen"/>ſent letters ſhall come gretyng. We vnderſtand by our letter late cauſed to be made vnder our ſeale at our re<g ref="char:EOLhyphen"/>tournyng into Englande by theſe wordes.</p>
+               <p>¶ Edward by the grace of god kynge of England lord of Irland and Duke of Aquitaine. To al archbiſhops, biſhops, abbots, priours, erles, barons, Juſtices, ſhy<g ref="char:EOLhyphen"/>rifes, gouernours, and myniſters, and to all bayliffes, and other his faithfull gretinge. We vnderſtande by a writinge confirmed, whiche lord Edwarde late kynge of Englande our father cauſed to be made to the tyn<g ref="char:EOLhyphen"/>workers of the cou<g ref="char:cmbAbbrStroke">̄</g>ty of Deuonſhyre, in theſe wordes.</p>
+               <p>¶ Edward by the grace of god kynge of Englande and Fraunce, lord of Irlande and Duke of Aquitaine, to al archebiſhoppes, byſſhops, abbottes, priours, Erles, barons, iuſtices, ſhiriffes, gouernours, miniſters, and to all bayliffes and other his faithefull gretinge. Wee
+<pb facs="tcp:5597:2"/>
+vnderſtande by wrytinge, whiche the lord Edwarde of noble memory, ſometime kynge of England our father, made to the Tinworkers of the county of Deuonſhire, in theſe wordes.</p>
+               <p>¶ Edwarde by the grace of god kyng of England, lord of Irelande, and Duke of Aquitaine. To all archeby<g ref="char:EOLhyphen"/>ſhophes, byſhops, abbottes, prioures, erles, barons, iuſtices, gouernours, miniſters, and to all bailifes and other his faithfull, gretynge.</p>
+            </div>
+            <div type="part">
+               <head>¶ Of the Charter.</head>
+               <p>
+                  <seg rend="decorInit">S</seg>Ciatis nos ad emendationem Stanna<g ref="char:EOLhyphen"/>rioru<g ref="char:cmbAbbrStroke">̄</g> noſtrorum in Com<g ref="char:cmbAbbrStroke">̄</g>. Deuon<g ref="char:cmbAbbrStroke">̄</g>, et ad tranquillitatem, et vtilitatem Stanna<g ref="char:EOLunhyphen"/>toru<g ref="char:cmbAbbrStroke">̄</g> noſtrorum eorundem conceſſiſſe pro nobis et heredibus noſtris <expan>
+                     <am>
+                        <g ref="char:abquam"/>
+                     </am>
+                     <ex>quam</ex>
+                  </expan> omnes Stannatores predicti opera<g ref="char:cmbAbbrStroke">̄</g>tes in ſtan<g ref="char:EOLhyphen"/>nariis illis que ſunt dominica noſtra du<g ref="char:cmbAbbrStroke">̄</g> operantur in eiſdem Stannariis ſint liberi et quieti de placitis natiuorum et de omnibus placitis et querelis curiam noſtra<g ref="char:cmbAbbrStroke">̄</g> et heredum noſtroru<g ref="char:cmbAbbrStroke">̄</g> qualitercum<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> tan<g ref="char:EOLhyphen"/>gentibus. Ita quod non reſpondea<g ref="char:cmbAbbrStroke">̄</g>t coram aliquibus iuſticiariis vel miniſtris noſtris ſeu heredum noſtroru<g ref="char:cmbAbbrStroke">̄</g> de aliquo placito ſeu querela infra predicta Sta<g ref="char:cmbAbbrStroke">̄</g>naria emargente, niſi coram <abbr>cuſtod</abbr> noſtro Stannariorum noſtroru<g ref="char:cmbAbbrStroke">̄</g> predictorum qui pro tempore fuerit exceptis placitis terre &amp; vite et membroru<g ref="char:cmbAbbrStroke">̄</g> nec recedant ab ope<g ref="char:EOLhyphen"/>rationibus ſuis per ſummonicione<g ref="char:cmbAbbrStroke">̄</g> alicuius miniſtroru<g ref="char:cmbAbbrStroke">̄</g> noſtrorum ſeu heredum noſtrorum niſi per ſummonicio<g ref="char:EOLhyphen"/>nem dicti cuſtodis noſtri. Et <expan>
+                     <am>
+                        <g ref="char:abquam"/>
+                     </am>
+                     <ex>quam</ex>
+                  </expan> quieti ſint de omnibus tallagiis theoloniis ſtallagiis auxiliis et aliis cuſtu<g ref="char:EOLhyphen"/>mis
+<pb facs="tcp:5597:3"/>
+quibuſcum<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> in villis portubus feriis et marcatis infra Com<g ref="char:cmbAbbrStroke">̄</g> predictum, de bonis ſuis propriis. Conceſ<g ref="char:EOLhyphen"/>ſimꝰ etia<g ref="char:cmbAbbrStroke">̄</g> eiſdem ſta<g ref="char:cmbAbbrStroke">̄</g>natoribus <expan>
+                     <am>
+                        <g ref="char:abquam"/>
+                     </am>
+                     <ex>quam</ex>
+                  </expan> fodere poſſint ſtannu<g ref="char:cmbAbbrStroke">̄</g> &amp; turbas ad ſtannu<g ref="char:cmbAbbrStroke">̄</g> fodendu<g ref="char:cmbAbbrStroke">̄</g> vbi<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> in terris moris et va<g ref="char:EOLhyphen"/>ſtis noſtris et alioru<g ref="char:cmbAbbrStroke">̄</g> quoru<g ref="char:cmbAbbrStroke">̄</g>cum<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> in Com<g ref="char:cmbAbbrStroke">̄</g> predicto, et aquas &amp; curſus aquarum ad operationes Sta<g ref="char:cmbAbbrStroke">̄</g>narioru<g ref="char:cmbAbbrStroke">̄</g> predictoru<g ref="char:cmbAbbrStroke">̄</g> diuertere, vbi et quocie<g ref="char:cmbAbbrStroke">̄</g>s opus fuerit et eme<g ref="char:EOLhyphen"/>re buſca<g ref="char:cmbAbbrStroke">̄</g> ad funtura<g ref="char:cmbAbbrStroke">̄</g> Sta<g ref="char:cmbAbbrStroke">̄</g>ni ſicut antiquitus fieri co<g ref="char:cmbAbbrStroke">̄</g>ſue<g ref="char:EOLhyphen"/>uit ſine impedimento noſtri vell heredum noſtrorum. Epiſcopum abbatum priorum comitum baronu<g ref="char:cmbAbbrStroke">̄</g> ceu ali<g ref="char:EOLhyphen"/>orum quorumcum<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan>, et <expan>
+                     <am>
+                        <g ref="char:abquam"/>
+                     </am>
+                     <ex>quam</ex>
+                  </expan> cuſtos noſter predictus vel eius locum tenens teneat omnia placita inter Stanna<g ref="char:EOLhyphen"/>tores predictos emergencia et etiam inter ipſos &amp; alios forinſecos de omnibus tranſgreſſionibus querelis et co<g ref="char:cmbAbbrStroke">̄</g>
+                  <g ref="char:EOLunhyphen"/>tractibus factis in locis in quibus operantur infra ſtan<g ref="char:EOLunhyphen"/>naria predicta ſimiliter emergentia et <expan>
+                     <am>
+                        <g ref="char:abquam"/>
+                     </am>
+                     <ex>quam</ex>
+                  </expan> idem cuſtos habeat plenam poteſtatem Stannatoribus predictis, &amp; aliis forinſecis in huiuſmodi placitis iuſticiandi, et iuſtitiam faciendi prout iuſtum et hactenus in ſtanna<g ref="char:EOLhyphen"/>riis illis fuerit vſitatum. Et ſi qui Stannatorum pre<g ref="char:EOLhyphen"/>dittorum in aliquo de liquerint per quod incarcerari de<g ref="char:EOLhyphen"/>beant per cuſtodem predictu<g ref="char:cmbAbbrStroke">̄</g> areſtentur et in priſona no<g ref="char:EOLhyphen"/>ſtra de Lidforde et non alibi cuſtodiantur &amp; detinea<g ref="char:cmbAbbrStroke">̄</g>tur quouſ<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> ſecundu<g ref="char:cmbAbbrStroke">̄</g> legem et conſuetudinem regni noſtri de liberentur. Et ſi aliqui Stannatoru<g ref="char:cmbAbbrStroke">̄</g> predictoru<g ref="char:cmbAbbrStroke">̄</g> ſuper aliquo facto infra Com<g ref="char:cmbAbbrStroke">̄</g> predictum, non tangente ſtan<g ref="char:EOLhyphen"/>naria predicta, ſe poſuerint in inquiſitionem patrie, vna medietas iuratorum inquiſitionis huiuſmodi, ſit de ſta<g ref="char:cmbAbbrStroke">̄</g>
+                  <g ref="char:EOLhyphen"/>natoribus predictis &amp; alia medietas de forinſecis. Et de facto totaliter tangente Stannaria predicta, fiant inquiſitiones ſicut hactenus fieri conſueueru<g ref="char:cmbAbbrStroke">̄</g>t et ſi quis eorundem Stannatoru<g ref="char:cmbAbbrStroke">̄</g> fugitiuus fuerit vel vtlagatus vel aliquod delictu<g ref="char:cmbAbbrStroke">̄</g> fecerit pro quo catalla ſua amittere
+<pb facs="tcp:5597:3"/>
+debꝪ. catalla illa per cuſtodem predictum et coronato<g ref="char:EOLhyphen"/>rem noſtru<g ref="char:cmbAbbrStroke">̄</g> Com<g ref="char:cmbAbbrStroke">̄</g> predicti apprecie<g ref="char:cmbAbbrStroke">̄</g>tur, &amp; per ipſos prori<g ref="char:EOLunhyphen"/>mis villatis liberentur ad repondendum inde nobis et heredibus noſtris cora<g ref="char:cmbAbbrStroke">̄</g> iuſticiariis itenera<g ref="char:cmbAbbrStroke">̄</g>tibus in com<g ref="char:cmbAbbrStroke">̄</g> predicto, Volumus inſuper et firmiter precipimus <expan>
+                     <am>
+                        <g ref="char:abquam"/>
+                     </am>
+                     <ex>quam</ex>
+                  </expan> to tum Stannum tam album <expan>
+                     <am>
+                        <g ref="char:abquam"/>
+                     </am>
+                     <ex>quam</ex>
+                  </expan> nigrum vbicumque inue<g ref="char:cmbAbbrStroke">̄</g>
+                  <g ref="char:EOLhyphen"/>tum et operatu<g ref="char:cmbAbbrStroke">̄</g> fuerit in Comitatu predicio ponderetur apud Cauiſtocke Aſperton vel Chaggforde per po<g ref="char:cmbAbbrStroke">̄</g>dera noſtra ad hoc ordinata &amp; ſignata ſub foriſfactura ſtan<g ref="char:EOLhyphen"/>ni predicti et quod totum illud Stannum coignetur in eiſdem villis ſingulis annis coram cuſtode predicto an<g ref="char:EOLunhyphen"/>te die<g ref="char:cmbAbbrStroke">̄</g> ſancti Michaelis in menſe ſeptembris ſub foru<g ref="char:cmbAbbrStroke">̄</g> co<g ref="char:cmbAbbrStroke">̄</g>
+                  <g ref="char:EOLunhyphen"/>ceſſimꝰ etia<g ref="char:cmbAbbrStroke">̄</g> pro nobis et heredibus noſtris quod omnes ſta<g ref="char:cmbAbbrStroke">̄</g>natores noſtri predicti totu<g ref="char:cmbAbbrStroke">̄</g> ſtannu<g ref="char:cmbAbbrStroke">̄</g> ſuu<g ref="char:cmbAbbrStroke">̄</g> ſic po<g ref="char:cmbAbbrStroke">̄</g>d ratu<g ref="char:EOLunhyphen"/>licite vendere poſſiut cuicumque voluerint in villis pre<g ref="char:EOLunhyphen"/>dictis faciendo nobis et heredibus noſtris coignagium, et alias conſuetudines debitas &amp; vſitatas niſi nos et he redes noſtri Stannum illud emere voluerimus. Qua<g ref="char:EOLhyphen"/>re volumus et firmiter precipimus pro nobis et heredi<g ref="char:EOLhyphen"/>bus noſtris <expan>
+                     <am>
+                        <g ref="char:abquam"/>
+                     </am>
+                     <ex>quam</ex>
+                  </expan> Stannatores noſtri predicti habe a<g ref="char:cmbAbbrStroke">̄</g>t om<g ref="char:EOLhyphen"/>nes libertates &amp; liberas co<g ref="char:cmbAbbrStroke">̄</g>ſuetudines et quietancias ſu<g ref="char:EOLunhyphen"/>praſcriptas et <expan>
+                     <am>
+                        <g ref="char:abquam"/>
+                     </am>
+                     <ex>quam</ex>
+                  </expan> eis ſine occaſio<g ref="char:cmbAbbrStroke">̄</g>e vel impedime<g ref="char:cmbAbbrStroke">̄</g>to noſtri vel heredu<g ref="char:cmbAbbrStroke">̄</g> noſtroru<g ref="char:cmbAbbrStroke">̄</g> Juſticiarioru<g ref="char:cmbAbbrStroke">̄</g>. Eſcaetoru<g ref="char:cmbAbbrStroke">̄</g> vicecomi<g ref="char:EOLunhyphen"/>tu<g ref="char:cmbAbbrStroke">̄</g> aut alioru<g ref="char:cmbAbbrStroke">̄</g> balliuoru<g ref="char:cmbAbbrStroke">̄</g> ſeu miniſtroru<g ref="char:cmbAbbrStroke">̄</g> noſtroru<g ref="char:cmbAbbrStroke">̄</g> quoru<g ref="char:cmbAbbrStroke">̄</g>
+                  <g ref="char:EOLhyphen"/>cu<g ref="char:cmbAbbrStroke">̄</g>
+                  <expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> racionabilit<expan>
+                     <am>
+                        <g ref="char:aber"/>
+                     </am>
+                     <ex>er</ex>
+                  </expan> gaudea<g ref="char:cmbAbbrStroke">̄</g>t et vtantur in forma predicta hiis teſtibus venerabilibꝰ patribus W. Cou<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n<g ref="char:cmbAbbrStroke">̄</g> et Lich felden. S. Saru<g ref="char:cmbAbbrStroke">̄</g> et I karlion Epreis He<g ref="char:cmbAbbrStroke">̄</g>rico de lacer Comite Lincolu<g ref="char:cmbAbbrStroke">̄</g> Radul de mo<g ref="char:cmbAbbrStroke">̄</g>te Hermeri Comite Glo<g ref="char:EOLhyphen"/>ceſter et Herford, Humfred de Bohun Comite Hereford et eſſex adomaro de valencia. Hugone le deſpe<g ref="char:cmbAbbrStroke">̄</g>ſer. Johe<g ref="char:cmbAbbrStroke">̄</g> de Haſtinges et aliis. Datum per manu<g ref="char:cmbAbbrStroke">̄</g> noſtram apud Weſtmonaſterium de cimo die April, Anno regui noſtri triceſimo tertio. Nes aute<g ref="char:cmbAbbrStroke">̄</g> co<g ref="char:cmbAbbrStroke">̄</g>ceſſiones predictas ratas
+<pb facs="tcp:5597:4"/>
+&amp; gratas habe<g ref="char:cmbAbbrStroke">̄</g>tes, eaſde<g ref="char:cmbAbbrStroke">̄</g> pro nobis et heredibus noſtris quantum in nobis eſt concedimus et confirmamus, ſicut carta predicta rationabiliter teſtatur, hiis teſtibus ve<g ref="char:EOLhyphen"/>nerabilibus. w. Archiepiſcopo Eboru<g ref="char:cmbAbbrStroke">̄</g> Anglie primate. w. Wigoru<g ref="char:cmbAbbrStroke">̄</g> epiſco. Ca<g ref="char:cmbAbbrStroke">̄</g>cellario noſtro, Gilberto de clare comite Gloceſtrie &amp; Herefordie, Joha<g ref="char:cmbAbbrStroke">̄</g>ne de Warenna co<g ref="char:EOLunhyphen"/>mite Surre, Roberto de Clifforde Pagano Tibetoti, Roberto filio pagani ſeneſcallo hoſpicii noſtri et aliis. Datu<g ref="char:cmbAbbrStroke">̄</g> per manu noſtra<g ref="char:cmbAbbrStroke">̄</g> apud Eboru<g ref="char:cmbAbbrStroke">̄</g> quarto decimo die Auguſti, anno regni noſtri quarto. Nos aute<g ref="char:cmbAbbrStroke">̄</g> conceſſio<g ref="char:EOLunhyphen"/>nes predictas ratas et gratas habe<g ref="char:cmbAbbrStroke">̄</g>tes eaſde<g ref="char:cmbAbbrStroke">̄</g> ꝓ nobis et heredibus noſtris qua<g ref="char:cmbAbbrStroke">̄</g>tum in nobis eſt predictis ſta<g ref="char:cmbAbbrStroke">̄</g>
+                  <g ref="char:EOLhyphen"/>natoribus concedimus et co<g ref="char:cmbAbbrStroke">̄</g>firmamꝰ ſicut carta noſtra <g ref="char:abpre">p̄</g>dicta rationabiliter teſtat<expan>
+                     <am>
+                        <g ref="char:aber"/>
+                     </am>
+                     <ex>er</ex>
+                  </expan> Propterea volentes eiſde<g ref="char:cmbAbbrStroke">̄</g> Sannatoribus graciam facere vberiorem in hac parte co<g ref="char:cmbAbbrStroke">̄</g>cedimus eis pronobis et heredibus noſtris quod ipſi<g ref="char:EOLunhyphen"/>du<g ref="char:cmbAbbrStroke">̄</g> operantur in Stannariis illis quieti ſint de mura<g ref="char:EOLhyphen"/>giis ſtallagiis taxationib<g ref="char:dram">ʒ</g> et contributionibus quibuſ<g ref="char:EOLhyphen"/>cu<g ref="char:cmbAbbrStroke">̄</g>que de propriis bonis ſuis in Com<g ref="char:cmbAbbrStroke">̄</g>. predicto hiis te<g ref="char:EOLhyphen"/>ſtibus veneralibus patrib<g ref="char:dram">ʒ</g>. w. Archiepiſcopo Eborum Anglie primate. I. Elien epiſcopo Cancellario noſtro, H. Lincoln epiſ. The ſaurario noſtro. Thoma Comite Norfolk, et Mareſcallo Anglie Auunclo noſtro car. Jo hanne de warenna comite Surre. et Thoma Wake, Johanne de Boos. Seneſcallo hoſpitii moſtri &amp; aliis, Datum per manum noſtrum apud Stanhope ſexto die Auguſti. Anno regni noſtri Primo.</p>
+               <p>¶ Nos autem tenore Carte noſtre ſub ſigillo quo nunc vtimur in Anglia tenore preſentiu<g ref="char:cmbAbbrStroke">̄</g> duximus exemplifi<g ref="char:EOLhyphen"/>candum. In cuius rei teſtimoniu<g ref="char:cmbAbbrStroke">̄</g> has litteras noſtras fieri fecimus pate<g ref="char:cmbAbbrStroke">̄</g>tes, Teſte me ipſo apud Langle duo<g ref="char:EOLhyphen"/>decimo die Noue<g ref="char:cmbAbbrStroke">̄</g>bris, anno regni noſtri Anglie decimo ſeptimo regni vero noſtri Frauncie quarto. Nos aute<g ref="char:cmbAbbrStroke">̄</g>
+                  <pb facs="tcp:5597:4"/>
+litteras predictas ac omnia et ſingula in eiſdem co<g ref="char:cmbAbbrStroke">̄</g>tenta<g ref="char:EOLunhyphen"/>rata et grata habe<g ref="char:cmbAbbrStroke">̄</g>tes, eaſde<g ref="char:cmbAbbrStroke">̄</g> ꝓ nobis et heredib<g ref="char:dram">ʒ</g> noſtris qua<g ref="char:cmbAbbrStroke">̄</g>tum in nobis eſt acceptamus et approbamus ac nu<g ref="char:cmbAbbrStroke">̄</g>c Stannatoribus ſtannarioru<g ref="char:cmbAbbrStroke">̄</g> predictorum et eorum ſuc<g ref="char:EOLhyphen"/>ceſſorib<g ref="char:dram">ʒ</g> ratificamus et confirmamus prout littere pre<g ref="char:EOLhyphen"/>dicte rationabiliter teſta<g ref="char:cmbAbbrStroke">̄</g>tur. In cuius rei teſtimonium has litteras noſtras fieri fecimus patentes. Teſte me ipſo apud Weſtmonaſteriu<g ref="char:cmbAbbrStroke">̄</g> viceſimo ſeptimo die Noue<g ref="char:cmbAbbrStroke">̄</g>. anno regni noſtri primo. ¶ Nos aute<g ref="char:cmbAbbrStroke">̄</g> cartas et litteras predictas ac omnia et ſingula in eiſdem conte<g ref="char:cmbAbbrStroke">̄</g>ta rata et grata habentes, eaſdem pro nobis et heredibus noſtris qua<g ref="char:cmbAbbrStroke">̄</g>tu<g ref="char:cmbAbbrStroke">̄</g> in nobis eſt acceptamꝰ et approbamꝰ ac dilectis nobis nunc Stannatoribus Stannarioru<g ref="char:cmbAbbrStroke">̄</g> predictoru<g ref="char:cmbAbbrStroke">̄</g> et eorum ſucceſſoribus tenore preſentiu<g ref="char:cmbAbbrStroke">̄</g> ratificamus et confirmamus prout carte et littere ſupradicte rationa<g ref="char:EOLhyphen"/>biliter teſtantur, In cuius rei teſtimoniu<g ref="char:cmbAbbrStroke">̄</g> has litteras noſtras fieri fecimus pate<g ref="char:cmbAbbrStroke">̄</g>tes. Teſte me ipſo apud Weſt monaſteriu<g ref="char:cmbAbbrStroke">̄</g> duodecimo die Februarii. Anno regni noſtri Tercio.</p>
+            </div>
+            <div xml:lang="lat" type="part">
+               <head>¶ Pro quatuor marcis ſolut in Hanaperio.</head>
+               <p>DEuon<g ref="char:cmbAbbrStroke">̄</g>, Magna Curia domini regis Ducatus ſui Cornu<g ref="char:EOLhyphen"/>bie tenta apud Crockerentorre in comitatu Deuon<g ref="char:cmbAbbrStroke">̄</g>, co<g ref="char:EOLunhyphen"/>ram Thoma Deneys armigero, locum tenente Henrici Mer<g ref="char:EOLhyphen"/>ney militis Cuſtod, Stannarie domini regis in Comitatu De<g ref="char:EOLunhyphen"/>uonie Viceſimo quarto die menſis Septembris, Anno regni Regis Henrici octaui Secundo.</p>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb facs="tcp:5597:5"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb facs="tcp:5597:5"/>
+            </div>
+            <div type="part">
+               <pb facs="tcp:5597:6"/>
+               <head>¶ The names of the Jurates.</head>
+               <list>
+                  <head>xxiiii. Jurats in the ſta<g ref="char:cmbAbbrStroke">̄</g>na<g ref="char:EOLhyphen"/>rie court of Chaggeforde.</head>
+                  <item>John Wolcot of chudlegh</item>
+                  <item>John Brabon</item>
+                  <item>Thomas Staplehyll</item>
+                  <item>Wyllyam Ryſe</item>
+                  <item>John Wyddon</item>
+                  <item>Robart Foxforde</item>
+                  <item>Robart Wanell</item>
+                  <item>Wyllyam Fu<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſelande</item>
+                  <item>Robart Windeyate</item>
+                  <item>Rycharde Wratt</item>
+                  <item>John Nucombe. Jun<g ref="char:cmbAbbrStroke">̄</g>,</item>
+                  <item>Wyllyam Noſe worthey</item>
+                  <item>Thomas Myller</item>
+                  <item>Wyllyam Caſelegh</item>
+                  <item>Wyllyam Furſſe</item>
+                  <item>Wyllyam D<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>nbolde</item>
+                  <item>Alexander W<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>kes</item>
+                  <item>Thomas Bat<gap reason="illegible" resp="#APEX" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>yll</item>
+                  <item>Thomas Tomlyn</item>
+                  <item>John Ayſſhe</item>
+                  <item>Rycharde Crote</item>
+                  <item>Wyllyam Mowry</item>
+                  <item>Galfridus Loſkey</item>
+                  <item>John Smyth corſer</item>
+               </list>
+               <list>
+                  <head>xxiiii. Jurats of the ſta<g ref="char:cmbAbbrStroke">̄</g>na<g ref="char:EOLhyphen"/>rie court of Ayſberton.</head>
+                  <item>¶ Rycharde Hamlyn</item>
+                  <item>John Vele</item>
+                  <item>John Bonycombe</item>
+                  <item>John Maddocke</item>
+                  <item>Wyllyam Myller</item>
+                  <item>John Baron</item>
+                  <item>Wyllyam Kyng of Hole</item>
+                  <item>John Eyre</item>
+                  <item>Rychard Langworthy</item>
+                  <item>Thomas Mathue</item>
+                  <item>John Eexte of Bre<g ref="char:cmbAbbrStroke">̄</g>ſton</item>
+                  <item>Rychard Foxforde</item>
+                  <item>Rycharde Baker</item>
+                  <item>John Wydecombe</item>
+                  <item>Rychard Harte</item>
+                  <item>Wyllyam Wydecombe</item>
+                  <item>John Clyffe</item>
+                  <item>Wyllyam Edwarde</item>
+                  <item>John Saunder</item>
+                  <item>Thomas Gauerocke</item>
+                  <item>Mychell Sperkewyll</item>
+                  <item>John Baker</item>
+                  <item>Robart Tomlyn</item>
+                  <item>Wyllyam Berde.</item>
+               </list>
+               <list>
+                  <head>xxiiii. Jurats of the ſta<g ref="char:cmbAbbrStroke">̄</g>na<g ref="char:EOLhyphen"/>rie courte of Plymton.</head>
+                  <item>¶ Wyllyam at Hele.</item>
+                  <item>Wyllyam Rede</item>
+                  <item>John Beare</item>
+                  <item>Nycolas Brugge</item>
+                  <item>Robarte Batyn</item>
+                  <item>Nycolas Combe</item>
+                  <item>John Hede</item>
+                  <item>Water Adam</item>
+                  <item>Wyllyam Odymer</item>
+                  <item>
+                     <pb facs="tcp:5597:6"/>John Peake at Hele</item>
+                  <item>Wyllyam Tyllam</item>
+                  <item>Wyllyam Forde</item>
+                  <item>Wyllyam Bruſey</item>
+                  <item>John Elberton.</item>
+                  <item>Roger Eggecombe</item>
+                  <item>Wylliam Chreſton</item>
+                  <item>Jurdan Brugge</item>
+                  <item>Elias Elforde</item>
+                  <item>Androw Wattis</item>
+                  <item>Robart Hamme</item>
+                  <item>John Scobell</item>
+                  <item>Richard Roſe</item>
+                  <item>Richard Pomery</item>
+                  <item>William Wyett</item>
+               </list>
+               <list>
+                  <head>xxiiii. Jurats in the ſta<g ref="char:cmbAbbrStroke">̄</g>na<g ref="char:EOLhyphen"/>ries courte of Tauiſtocke.</head>
+                  <item>Steuen Toker</item>
+                  <item>Richard Langeſforde</item>
+                  <item>John Chreſton</item>
+                  <item>John Leywod</item>
+                  <item>John Glubbe</item>
+                  <item>John Horewyll.</item>
+                  <item>John Cholwyll</item>
+                  <item>John Gye</item>
+                  <item>John Peke of Way</item>
+                  <item>Thomas Forde</item>
+                  <item>John Draper</item>
+                  <item>Thomas Adam.</item>
+                  <item>William Soped</item>
+                  <item>John Hyllan</item>
+                  <item>Wyllyam Gyll</item>
+                  <item>John Eſton</item>
+                  <item>Robert Borne</item>
+                  <item>Robert Heyne</item>
+                  <item>Henry Humfrey</item>
+                  <item>Roger Langeſforde</item>
+                  <item>Wyllyam Stephen</item>
+                  <item>John Tanner</item>
+                  <item>Henry Haly</item>
+                  <item>John Harte.</item>
+               </list>
+            </div>
+            <div type="part">
+               <head>¶ The Statutes.</head>
+               <p>THat euery choſen, ſworne and tryed by the aſſente and conſent of al the Stanners in the countie afor<g ref="char:EOLhyphen"/>ſayd, Enact, ordeine, and conſtitute, that euery ſtatute of the Sta<g ref="char:cmbAbbrStroke">̄</g>ners afore this time than made to be voide, broken, and of none efecte, and thoſe done a newe to be in this courte affirmed as hereafter foloweth.</p>
+               <p>FIrſte be it affirmed and enacted at this preſente courte, that al maner of plees be pledeable in the Tynne court, and al maner of maters, before the
+<pb facs="tcp:5597:7"/>
+Warden or his deputye or Stewarde for the tyme be<g ref="char:EOLhyphen"/>yng, excepte .iii. that is to ſaye, plee concernyng lande, lyfe, and maime, as it is expreſſed in our Charter.</p>
+               <p>¶ And alſo be it enacted, that no deliueraunce nor wy<g ref="char:EOLhyphen"/>thername be deliuered by the Warden, vnder warden, or ſtewarde, to any perſon or perſons for any Tyn, nor for any mater touchinge Tynne or Tynworkes.</p>
+               <p>¶ Alſo be it affirmed and enacted, that it ſhalbe lawful for euery man to digge tynne in euery place within the countie of Deuonſhire, where as Tyn may be founde, and alſo to cary water to their workes, without any let or trouble of any perſon or perſons, according to the olde vſage and confirmation of our Charter, and accor<g ref="char:EOLhyphen"/>dinge to our cuſtome out of time that no minde is hath ben vſed. And if any perſon or perſons, let, trouble, or vexe any man, to digge Tyn, or to carye water for the ſame, contrary to our cuſtome and vſage, if it be found by verdicte of .xii. men at the lawe day. He that ſo let<g ref="char:EOLhyphen"/>teth, vexeth, or troubleth any ſuche perſon or perſones, ſhal fall in the penaltie of .xl. li. as oft as he ſo letteth, vexeth, or troubleth, the one halfe thereof to my Lorde Prynce, and the other halfe to him that was ſo letted, vexed, or troubled, and a Fieri facias to be warded as well for my Lorde Prynce, as for the party.</p>
+               <p>¶ Alſo be it affirmed and enacted, that all Tyn gathe<g ref="char:EOLhyphen"/>red, waſhed, and made cleane within the iuriſdiction of the ſaide Stannarie, be fyned and made white Tynne, before the feaſt of Michaelmas, and ſo brought to the coynage, and there coyned before the ſame feaſte, vpon peine of forfaiture of the ſame tynne to my lord Prynce, and euery perſon that ſo coyneth white tynne, ſhal pay for the coynage of euery. C. of Tyn ſo coyned .xviii. d. ob. <expan>
+                     <am>
+                        <g ref="char:abquam"/>
+                     </am>
+                     <ex>quam</ex>
+                  </expan>. and alſo yerely at Myghelmas .viii. d. called white rente.</p>
+               <p>
+                  <pb facs="tcp:5597:7"/>¶ Alſo be it affirmed and enacted, that no action from henſeforth ſhalbe ſued nor taken againſte any ſpalyar, for workyng in any tynneworke, but agaynſte hym or them that claimeth the free holde.</p>
+               <p>¶ Alſo be it affirmed and enacted, that if any perſon or perſons being tinners, voluntarily appere before any man (except it be before the Warden or his deputie, for any matter determinable afore the ſaid warden) if it be founde by verdite of .xii. men at the lawdaie, that then he to make fine with the warden or his deputie after his or their diſcrecion. And if it be founde by verdite of xii. men, at the ſuite of the partie, then he ſhal leſe .x. li. the one halfe to my lord Prince, and the other halfe to him that wil ſue it, and a Fieri facias to be awarded as wel for my lorde Prince, as for the partie.</p>
+               <p>¶ Alſo be it affirmed and enacted, that from henſeforth no tynner ſue none other tinner, for any tinne or tinwor<g ref="char:EOLunhyphen"/>kes, but onely in the tynne court. And alſo that not in<g ref="char:EOLhyphen"/>ner ſue none other tinner for any other cauſe (except ple concernyng lande, life, &amp; mayhim) but in the ti<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> court, the courte of Lidforde, orels in the courte of whom he holdeth, after the cuſtome and maner, vpon peine of a reaſonable fyne to be ceaſſed by the warden or his depu<g ref="char:EOLunhyphen"/>tie, if it be found by verdite of .xii. men at the law court. And if it be founde by verdict of .xii. men at the ſuite of him that was ſo ſued, he ſhal fal in the penaltie of .x. li. the one halfe to my lord Prince, and the other halfe to him that was ſo ſued, and a Fieri facias, to be awarded as wel for my lorde Prynce as for the partie.</p>
+               <p>¶ Alſo be it affirmed &amp; enacted, that no tinner nor ſpa<g ref="char:EOLhyphen"/>lier fet any warrant, nor ſuperſedias of peace againſte any tinner or ſpaliar, but onely with the warden or his deputie: And if it be founde by verdite of .xii. men at a
+<pb facs="tcp:5597:8"/>
+laweday, he ſhall make fine with the warden or his de<g ref="char:EOLunhyphen"/>putie. and if it be founde by verdite of .xii. men, at the ſuite of the partie, he ſhal leſe .C. <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. The one halfe to my lorde Prince, and the other halfe to him that was ſo greued, and a Fieri facias to be awarded, as wel for my lord Prince, as for the partie.</p>
+               <p>¶ Alſo be it affirmed and enacted, that if any perſon or perſons enter into any tin worke with force, or ſo take away any tyn out of any tynne worke, if it be founde by verdite of .xii. men at a lawday for my lord Prince, he ſhalbe committed to Lydford, and there to remayne til he make fine with the warden or his deputie: and if the ſaid entree or takinge away of tynne be founde by ver<g ref="char:EOLhyphen"/>dicte of .xii. men, before the warden his deputie, or his ſtewarde, at the ſuite of the partie that is ſo diſſeaſed, or hath his tyn ſo taken away, he that ſo entreth or ta<g ref="char:EOLhyphen"/>keth away any ſuche tynne, ſhall fall in the penaltie of xl. li. the one halfe to my lord Prince, &amp; the other halfe to the partie that is ſoo greued, and a Fieri facias to be awarded, as well for my lord Prince as for the party.</p>
+               <p>¶ Alſo be it affirmed and enacted, that no perſon ne per<g ref="char:EOLunhyphen"/>ſons being tinners, ſhall not be returned in any Jurye for the king, nor betwene partie in no court of the ſtan<g ref="char:EOLhyphen"/>narie, but onely in the court where he dwelleth.</p>
+               <p>¶ Alſo be it affirmed and enacted, that if any perſon or perſons geue or promiſe any tynworke or parte of any tynworke that is in variaunce or debate betwene par<g ref="char:EOLhyphen"/>tie and partie to any gentilman or other perſon, to haue lordſhip or maintenaunce for the ſame, the ſaid worke or parte of the ſaide worke ſo geuen or promiſed, ſhall remayne to the elder owners, and he that ſo geueth or promiſeth, and he that ſo taketh, if it be found at a law court by verdite of .xii. men, they bothe ſhal make fine
+<pb facs="tcp:5597:8"/>
+with the warden or his deputie, and if it be founde by verdite of .xii. m<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n at the ſute of the partie, in an action of meintenaunce, euery of them ſhall fal in the penlltie of .xx. li. The one half to my lord Prince, and the other halfe to him that wil ſue, and a Fieri facias to be awar<g ref="char:EOLhyphen"/>ded as well for my lord Prince as for the partie.</p>
+               <p>¶ Alſo be it affirmed and enacted, that no perſon or per<g ref="char:EOLunhyphen"/>ſons make no ſynder tynne after it is watered, be it a<g ref="char:EOLhyphen"/>laide with other tyn or not, or make any harde Tynne without it be marked with this letter. H. vpon peyne of forfaiture of the ſame tynne, the one halfe to my lord Prince, and the other halfe to him that ſo findeth it.</p>
+               <p>¶ Alſo be it enacted that the owners of euery blowing houſe ſhall enter their houſe, mark of his houſe, at the lawe court nexte after ſuche a houſe is made, in the ſte<g ref="char:EOLhyphen"/>wards bokes, and alſo euery man that bloweth &amp; coy<g ref="char:EOLhyphen"/>neth white tynne, ſhall enter his hot marke in the ſte<g ref="char:EOLhyphen"/>wardes bokes before he coine his tynne, vpon peine of for fayture of the ſame tynne that is ſo coyned.</p>
+               <p>¶ Alſo be it enacted, that no tin be not reteined with no perſon or perſons, by ſigne, badge, token, liuerey, pro<g ref="char:EOLhyphen"/>miſe, or otherwiſe: but ſuch as be manuell ſeruauntes, and other as the lawe doth permit, but onely with my lord Prince, the warden or his deputie, or with ſuch as my ſaide lord Prince ſhall aſſigne, vpon peine of for fai<g ref="char:EOLunhyphen"/>ture to euery man for euery moneth ſo reteined .xl s. if it be founde by verdite of .xii. men, or otherwiſe by due examination, or by ſufficient proues had before the ſaid warden or his deputie.</p>
+               <p>¶ Alſo be it enacted, that if any marchaunt or other per<g ref="char:EOLunhyphen"/>ſon bie any tyn, and afterward the ſaid ti<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> be found not marchantable, that then if he that bought the ſaide tyn come to the courte and bring the ſaide tyn or part ther<g ref="char:EOLhyphen"/>of
+<pb facs="tcp:5597:9"/>
+and the owners marke, &amp; the houſe marke not mel<g ref="char:EOLhyphen"/>ted nor broken, that then the ſaide tyn ſhalbe melted o<g ref="char:EOLhyphen"/>penly in the courte: and if there be any ſinder tyn therin or not marchauntable, that then the owner of the ſayde tin and he that blue the ſaide tynne, by the ouerſight of the warden, his deputie or ſtewarde, ſhall recompence the ſaid marchaunte for his coſtes and charges, &amp; alſo to for fayt the ſame tyn to my lord Prince, and to make fine with the warden or his deputie for the ſame. And if the ſaid tynne be founde good and marchantable be<g ref="char:EOLhyphen"/>fore the ſaide warden or his deputie, then the ſaid mar<g ref="char:EOLunhyphen"/>cha<g ref="char:cmbAbbrStroke">̄</g>t ſhal fal in the penaltie of a .C. s. halfe to my Lord Prince, and the other halfe to him that is ſo greued, and a <hi>Fieri facias</hi> to be awarded <hi>vt ſupra.</hi>
+               </p>
+               <p>¶ Alſo be it enacted and ordeined, that wher as diuers owners be in one worke parteners, and if any of them will defraude his parteners, and ſo ſuffereth the ſaide worke to be a lay, and by couenant betwene a ſtranger and him, ſuffereth the ſaide ſtranger to pitche the ſayde worke, orels is awarned of the ſaid pitche of the ſayde worke, &amp; doth not his partener or partnars to ware of the ſaide pitche, and ſo defraudeth his parteners, that then he that ſo defraudeth his partie ſhal leſe his parte of the ſaid work to his felowes, and he that ſo pitcheth and he that ſo defraudeth, euery of them ſhal fal in the penaltie of .xx. li. the one halfe to my lord Prince, and the other halfe to them that were ſo defrauded, if it be founde by verdite of .xii. men at the ſuite of the partie, that was ſo defrauded, and a <hi>Fieri facias</hi> to be awarded as well for my lorde Prince as for the partie.</p>
+               <p>¶ Alſo be it enacted and ordeined, that if any ſpaliers y<hi rend="sup">t</hi> hath the keping of any mans worke, and ſuffereth the ſaid worke to be alaye, by couenaunt betwene him and
+<pb facs="tcp:5597:9"/>
+a ſtranger, and cauſeth the ſaide ſtranger to pitche the ſaid worke &amp; ſo defraudeth him and his parteners that toke him the work to kepe, that the<g ref="char:cmbAbbrStroke">̄</g> he that ſo pitcheth ſhall leſe his pitche, and he that ſo defrauded, &amp; he that ſo pitched, euery of them ſhall leſe .x. li. the one halfe to my lorde Prince, &amp; the other halfe to the partye, if it be founde by verdite of .xii. men, at the ſuite of the party, and a <hi>Fieri facias</hi> to be awarded as well for my Lorde Prince as for the partie.</p>
+               <p>¶ Alſo be it affirmed and enacted, that a <hi>Nichil</hi> ſhalbe returned as it hath ben vſed, and the baylie be duely ex<g ref="char:EOLunhyphen"/>amined in the court, that the defendant may not be at<g ref="char:EOLhyphen"/>tached, and that the ſaid defendaunt hath no goodes ne cattell wherby he maye be attached.</p>
+               <p>¶ Alſo be it enacted and ordeined, that al bargains and ſales hereafter to be made by any perſon or perſons be<g ref="char:EOLhyphen"/>ynge within the age of .xvi. yeres, to any perſon or per<g ref="char:EOLunhyphen"/>ſons, to be voide and of none effecte.</p>
+               <p>¶ Alſo be it enacted &amp; ordeyned, that if any man or wo<g ref="char:EOLhyphen"/>man die ſeaſed of any tynworkes, their heire or heires being within the age of .xvi. yeres, that then he or ſhe that is next of kin, to whom the right of the ſaid work ſhal not deſce<g ref="char:cmbAbbrStroke">̄</g>d, or ſuch as his father or mother putteth in truſt ſhal haue the rule of the ſaid tynworkes, and to yelde accompte to the ſaide heire or heires, when he or they commeth to the age of .xvi. yeres, and to haue re<g ref="char:EOLhyphen"/>ſonable for his coſtes and charges.</p>
+               <p>¶ Alſo be it enacted and ordeined, that from henſforthe al maner of bargaines and ſale made of al tinworkes, wherof any man is ſeaſed of, as in the right of his wif continue no lenger but duringe the couerture, and after the ſaid couerture determined, all ſuche bargaines and ſales to be vtterly voyde and of none effecte, and that it
+<pb facs="tcp:5597:10"/>
+ſhalbe lawfull to euery ſuch wife or their heires to en<g ref="char:EOLhyphen"/>ter into the <gap reason="illegible" resp="#APEX" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#APEX" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> ſo holden by their ſaid huſeban<g ref="char:EOLunhyphen"/>de<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#APEX" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> of the penaltie of any ſtatute, and <gap reason="illegible" resp="#APEX" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> or claim further therfore to be made. <gap reason="illegible" resp="#APEX" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> enacted and ordeined, that from henſe <gap reason="illegible" resp="#APEX" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> nor warning made by any perſon or per<g ref="char:EOLunhyphen"/>ſons to any perſon or perſons beynge within the age of xvi. yeres, of any tynneworke or tynworkes, be in any wiſe to them preiudiciall, but vtterly to be voide and of none effect, except it be geuen in open court, to his gar<g ref="char:EOLhyphen"/>den in the behalfe of the ſaid enfante, and therupon the ſaid garde<g ref="char:cmbAbbrStroke">̄</g> to make defe<g ref="char:cmbAbbrStroke">̄</g>ce lawful without couin, fraud or colour, ſo that the poſſeſſion of the ſaide enfant be not loſ<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, nor reuouered in the defaute of the ſaid garden vp<g ref="char:EOLhyphen"/>pon peine of for fayture of .xx. li. if it be founde againſt the garden, by verdicte of .xii. men, at the ſuite of the partie, and thervpon al ſuche recouers to be voide and of none effecte.</p>
+               <p>¶ Alſo be it enacted and ordeined, that if any perſon or perſons being Tynners or Spaliers, refuſe to paye or hereafter refuſe to paye any part of ſuch ſomme or ſom<g ref="char:EOLhyphen"/>mes of money as is or hereafter ſhalbe ceſſed vpon any of theym by the ordinaunce and aſſent of .iiii. ſubſtan<g ref="char:EOLhyphen"/>ciall Cuſtomers of euery of the .iiii. courtes, choſen and appointed by the warden or his deputie, for the ceaſſing of the ſame, for the confirmation of our charter, and for ſuche other charges &amp; buſineſſe as hath be done, or here after ſhalbe done for the wealth of the Stannary, ſhall fall in the penaltie of a .C. s. if it be founde by verdicte of .xii. men at the lawe day, or otherwiſe by ſufficiente proues had before the Warden or his deputie, the one halfe to my lorde Prince, and the other halfe to the<g ref="char:cmbAbbrStroke">̄</g> that ſhalbe ſo aſſigned by the ſaid warden or his deputie for
+<pb facs="tcp:5597:10"/>
+the leuieng of the ſaid money ſo ceaſſed, to the vſe of the hole body of the ſta<g ref="char:cmbAbbrStroke">̄</g>nary, &amp; a <hi>Fieri facias</hi> to be awarded.</p>
+               <p>¶ Alſo be it enacted and ordeined, that no perſon ne per<g ref="char:EOLunhyphen"/>ſones make no waſhe but he warne his parteners that haue borne the charge with him of the workinge of the Tinne, and none other, vpon peine of for fayture of .x. li. the one halfe to my lorde Prince, and the other halfe to his parteners that haue borne the charge with him, if it be founde by verdite of .xii. men, at the ſuit of the par<g ref="char:EOLunhyphen"/>ty greued, and a <hi>Fieri facias</hi> to be awarded as well for my lorde Prince as for the partie.</p>
+               <p>¶ Alſo be it enacted and ordeined, that if any perſon or perſons beinge leaſed of any tynworke, or parte of any worke nowe at this court holden at Crockerentory, &amp; ſo ſeaſed, hereafter peaſably continue .ii. Mighelmas waſhes without claime made in open court to the ſame and entred into a booke that ſhall hereafter remaine in the ſaid courte of recorde, where as the ſaide tynworke lieth in, he or they that ſo haue continued peaſably any ſuche worke or workes, ſhall haue the ſaide worke or parte of the worke to him and to their heires in fee, ac<g ref="char:EOLhyphen"/>cording to the cuſtome of the Stannarie. Prouided al<g ref="char:EOLhyphen"/>way that this acte extende not nor be preiudiciall to a<g ref="char:EOLhyphen"/>ny woman couert, infant, within the age of. <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>vi. yere, men out of the realme, and men being in priſon, hauing no ſpace nor lybertie to make his clayme, nor to the hei<g ref="char:EOLunhyphen"/>res of any lunatike man.</p>
+               <p>¶ Alſo be it enacted and ordeined, that if any action of treſpas be brought by any tynner for any treſpas done in his grounde, and then the defendaunt commeth into the court and ſaith that the place where as the treſpas is ſuppoſed is his freholde, and praieth to be diſmiſſed for as moche as it is concerning land, that then the ſte<g ref="char:EOLhyphen"/>warde
+<pb facs="tcp:5597:11"/>
+ſhall geue day at the next courte to bringe in his dede, wherby the freholde may appere in him, and then he to be diſmiſſed, and if not, he to make aunſwere to the treſpas at his peryll.</p>
+               <p>¶ Alſo be it enacted and ordeyned, as it hath ben vſed in tymes paſte, that .iii. maner of giftes of tynworkes to be good, that is to ſaye, by Teſtament, letter of At<g ref="char:EOLhyphen"/>tourney, and hande lyuery.</p>
+               <p>¶ Alſo be it ordeyned, where as a man hath dyuers tin workes, and will depart from them by hande lyuerye, or otherwiſe, by letter of attourney, it requireth lyue<g ref="char:EOLhyphen"/>ry to paſſe in euery worke.</p>
+               <p>¶ Alſo be it enacted and ordeyned, that if any perſonne or perſons ſell and delyuer any white Tyn or it be coy<g ref="char:EOLhyphen"/>ned, wherby my lord Prince ſhall leſe his coynage, he ſhall forfayte the ſayde tynne to my lorde Prynce, and to make fyne for his vntrue demeanour.</p>
+               <p>¶ Alſo be it enacted &amp; ordeyned, that if any man coyne any other mannes tyn in his owne name, the ſame tyn ſhalbe forfayte to my lorde Prynce, and he that ſo coy<g ref="char:EOLhyphen"/>ned it to make fyne for his vntrue demeanynge.</p>
+               <p>¶ Alſo be it enacted and ordeyned, that where as dy<g ref="char:EOLhyphen"/>uers parteners be in one worke, it ſhalbe laufull for e<g ref="char:EOLhyphen"/>uery of them to worke in his owne parte, without any let or daunger to his felowes, and that his felowes to take no tynne at waſhe, but for as muche as they haue wrought, or as they haue leyde ſpale for.</p>
+               <p>¶ Alſo be it enacted and ordeyned, that if any tynner be wronged, that then he to complayne to the Stewarde at the courte, and if they wyll not do hym Juſtice, but be parſhial, then he to complayne to the vnder warden and if he wyll doo hym no Juſtice, that then he to com<g ref="char:EOLhyphen"/>playne to the chiefe warden, and if he do no iuſtice, that
+<pb facs="tcp:5597:11"/>
+then he to complaine to my lorde Princes counſaile at his libertie, and if any tynner do contrary to this acte, he ſhall fall in the penaltie of .xx. li. the one halfe to my lorde Prynce, and the other halfe to hym that he com<g ref="char:EOLhyphen"/>playneth vpon, if it be founde by verdite of .xii. men, at a lawe daye.</p>
+               <p>¶ Alſo be it enacted and ordeined that if any ſhireffe eſ<g ref="char:EOLhyphen"/>chetour, bayly arrant, or any other perſon arreſt, trou<g ref="char:EOLhyphen"/>ble, or vexe any tinner going to his worke, being in his worke, or coming from his worke, as it is expreſſed in our charter, except it be by the co<g ref="char:cmbAbbrStroke">̄</g>maundme<g ref="char:cmbAbbrStroke">̄</g>t of the war<g ref="char:EOLhyphen"/>den, his deputie, or ſteward, that then he ſhal fa<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> in the penaltie of .xx. li. half to my lord Prince and the other halfe to him that was ſo greued, and a Fieri facias to be awarded if it be founde by verdite of .xii. men.</p>
+               <p>¶ Alſo be it enacted &amp; ordeined, that where as in times paſte, al tynners haue ben cuſtomefree of all maner of Tollage, Toll, Stallage aide, and al other maner of cuſtoms, in townes, Portes, Feres, and marketes, of their owne proper goodes, as it is expreſſed in our ſayd Charter, and that if any cuſtomer, controller, mayour baylife, waterbailife, ſteward of fra<g ref="char:cmbAbbrStroke">̄</g>ches, or any other perſon take any money of any tynner for any of the ar<g ref="char:EOLhyphen"/>ticles aboue reherſed, except it be the kynges cuſtome, if it be founde by verdite of .xii. men, at the lawe daye, he ſhall make fyne with the warden, or his deputye, and if it be founde by verdite of .xii. men at the ſuyte of the partie, he ſhall leſe ten pounde, the one halfe to my lorde Prynce, and the other halfe to hym that was ſoo greued, and a Fieri facias to be warded as wel for my lorde Prince as for the party.</p>
+               <p>¶ Alſo be it enacted that no man being a tynner, at the ſuite of any man ſhal not apere nor paſſe in any aſſiſes,
+<pb facs="tcp:5597:12"/>
+neyther Niſi prius againſt no tinner or tinners for wor<g ref="char:EOLunhyphen"/>king or digginge for tin in any mannes freholde, accor<g ref="char:EOLhyphen"/>dinge to the cuſtome of the Stannarie, vppon peine of forfayture of .xx. li. the one half to my lord prince, &amp; the other halfe to the profite, vſe, &amp; behalfe of the Sta<g ref="char:cmbAbbrStroke">̄</g>ua<g ref="char:EOLhyphen"/>ry, if it be founde by verdite of .xii. men at the laweday.</p>
+               <p>¶ Alſo be it enacted, that it ſhalbe lawefull from henſe<g ref="char:EOLhyphen"/>forth to euery lerned man to pleade in euery of the. <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>iii. tin courtes, ſo that they pleade there in engliſhe, and he that doth the contrary, his ple to be voyde &amp; no more to be admitted to pleade any ple in any of the ſaid courtes</p>
+               <p>¶ Alſo be it ordeined that a Scire facias ſhalbe awarded upon euery ſtatute wher the partie is put to his action.</p>
+               <p>IN the highe court of our ſoueraine lorde the kyng, in his duchy of Cornewall, holden at Crockeren<g ref="char:EOLhyphen"/>tory in the countie aforeſaid, before Phillip Cham<g ref="char:EOLunhyphen"/>pernon knyght, in the ſtede of Henry Marques of Exe<g ref="char:EOLhyphen"/>ſter, warden of the Tynners vnder our ſoueraigne the king, in the foreſaid countie of Deuonſhire, the .xxviii. daye of October, in the .xxiiii. yere of the raigne of king Henry the .viii.</p>
+            </div>
+            <div type="part">
+               <head>The names of the .xii. Jurates.</head>
+               <list>
+                  <head>xxiiii. Jurats in the ſta<g ref="char:cmbAbbrStroke">̄</g>na<g ref="char:EOLhyphen"/>rie courte of Chaggeforde.</head>
+                  <item>John Southcote</item>
+                  <item>Willyam Burgrn</item>
+                  <item>John Atyſhyll</item>
+                  <item>Richarde Wanell</item>
+                  <item>Phillip Furſe</item>
+                  <item>John Newcombe</item>
+               </list>
+               <list>
+                  <head>xxiiii. Jurats in the ſta<g ref="char:cmbAbbrStroke">̄</g>na<g ref="char:EOLhyphen"/>rie court of Ayſſheberton.</head>
+                  <item>John Vele</item>
+                  <item>Wyllyam Smyth</item>
+                  <item>Robert Hamlen</item>
+                  <item>John Ferres</item>
+                  <item>Wyllyam Myller</item>
+                  <item>John Horſehame</item>
+                  <item>
+                     <pb facs="tcp:5597:12"/>Wylliam Noſeworthy</item>
+                  <item>John Shere of Bon<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>hill</item>
+                  <item>Godfrey Loſ<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ey</item>
+                  <item>Wyllyam Knapman</item>
+                  <item>Wyllyam Hore</item>
+                  <item>John <gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ndecote</item>
+                  <item>John Gray</item>
+                  <item>John Roo of Beridon</item>
+                  <item>Thomas Elberde</item>
+                  <item>John Maior</item>
+                  <item>John Bowdo<g ref="char:cmbAbbrStroke">̄</g> of doccombe</item>
+                  <item>Thomas Hereys</item>
+                  <item>John Frenche</item>
+                  <item>Harry Eroſe</item>
+                  <item>John yoldon of midilcote</item>
+                  <item>Wyllyam Benet</item>
+                  <item>Wyllyam Comynge</item>
+                  <item>John Langworthy</item>
+               </list>
+               <list>
+                  <head>xxiiii. Jurats in the ſta<g ref="char:cmbAbbrStroke">̄</g>na<g ref="char:EOLhyphen"/>rie court of Plimton.</head>
+                  <item>Rycharde Chalons</item>
+                  <item>John Maſon</item>
+                  <item>Rycharde Wyllynge</item>
+                  <item>John Fote</item>
+                  <item>Thomas Berman</item>
+                  <item>Wyllyam Brende</item>
+                  <item>Nycolas Leteltor</item>
+                  <item>Nicolas Thorninge</item>
+                  <item>Baldewine Hele</item>
+                  <item>John Hutchyn</item>
+                  <item>Wyllyam Clarke</item>
+                  <item>Harry Caunterell</item>
+                  <item>John La<g ref="char:cmbAbbrStroke">̄</g>gworthy of boke<g ref="char:EOLunhyphen"/>land</item>
+                  <item>Thomas Phyllyp</item>
+                  <item>Rycharde Coyſhe</item>
+                  <item>Rycharde Kyng</item>
+                  <item>Walterus Rowe</item>
+                  <item>Nycolas Brende</item>
+                  <item>John Pethybrygge</item>
+                  <item>John Wydecombe</item>
+                  <item>Wyllyam Baron</item>
+                  <item>Wyllyam Elys</item>
+                  <item>Thomas Predyaux</item>
+                  <item>John Voyſe</item>
+                  <item>Rycharde Tayler</item>
+                  <item>John Forforde</item>
+                  <item>John Maddock of Huſſhe</item>
+                  <item>Thomas <gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>amlyn</item>
+                  <item>Elyas Hert</item>
+                  <item>Wyllyam Snowdon</item>
+               </list>
+               <list>
+                  <head>xxiiii. Jurats in the ſta<g ref="char:cmbAbbrStroke">̄</g>na<g ref="char:EOLhyphen"/>rie court of Tauyſtocke.</head>
+                  <item>Thomas Cole Armiger.</item>
+                  <item>Robert Cruys</item>
+                  <item>Henry Langeſford.</item>
+                  <item>John Hert</item>
+                  <item>John B<gap reason="illegible" resp="#APEX" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>de<gap reason="illegible" resp="#APEX" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>
+                  </item>
+                  <item>Nycolas Lugger</item>
+                  <item>John Eſton</item>
+                  <item>John Burneford</item>
+                  <item>John Chubbe of Hill</item>
+                  <item>John Atwyll</item>
+                  <item>John Horwyll of Lidford</item>
+                  <item>John Scotworthy</item>
+                  <item>
+                     <pb facs="tcp:5597:13"/>Richard browne de Meuy</item>
+                  <item>Nicolas Compe</item>
+                  <item>Thomas Browniſdon</item>
+                  <item>Richarde Abbot of Cadley</item>
+                  <item>John Pomery of Mewy</item>
+                  <item>John Baron of Heath</item>
+                  <item>Ri. foſterd of Cornewode.</item>
+                  <item>Willya<g ref="char:cmbAbbrStroke">̄</g> Chapel of Chapel<g ref="char:EOLhyphen"/>legh</item>
+                  <item>John Hed</item>
+                  <item>Thomas Ford of Brixton</item>
+                  <item>Thomas Am<g ref="char:cmbAbbrStroke">̄</g>
+                  </item>
+                  <item>Rychard Brownſdon.</item>
+                  <item>Thomas Toudon</item>
+                  <item>Henry Creyſhe</item>
+                  <item>John Cole</item>
+                  <item>Phillip Fote</item>
+                  <item>John Stephin of Gnatha<g ref="char:cmbAbbrStroke">̄</g>
+                  </item>
+                  <item>Walter Burgh</item>
+                  <item>Wil. Prior of Marytauy</item>
+                  <item>John Gee of Horrebrigge</item>
+                  <item>Richarde Drak</item>
+                  <item>Walter Knyghton</item>
+                  <item>John Hope<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> of witchu<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ch</item>
+                  <item>Stephyn Toker.</item>
+               </list>
+               <p>¶ That certaine Jurates as is aforeſaide, the electe, ſworne, and tried men, with the aſſent &amp; conſent of all the tynners in the foreſaid countie of Deuonſhire, haue enacted, affyrmed, ordeyned and ſtatute, and by theſe preſentes ſtabliſhe, that as wel al ſtatutes now of late made as al other ſtatutes here afore time there made &amp; affirmed before theſe ſtatutes dothe at the laſte courte, there they adnichilate and ſet as voyde, other therafter made to remayne and ſtande in full ſtrength and effecte as afore more playnely appereth.</p>
+               <p>¶ Fyrſte be it affirmed and enacted, from henceforth by auctoritie of this preſent courte, that al Tynners kepe theyr tynworkes as hereafter foloweth, that is to ſay, yerely betwene the feaſt of ſainct Peter the aduincula &amp; the feaſte of ſainct Mighell tharchangel nowe nexte fo<g ref="char:EOLhyphen"/>lowynge, to renewe or cauſed their hedweres Syde<g ref="char:EOLhyphen"/>bondes waterlettes and tayle of euery tynworke, that now is or hereafter ſhalbe, and if there be any tinwork or tynworkes, that hereafter be not kepte accordynge to this acte, as is before reherſed, it ſhall be lefull to
+<pb facs="tcp:5597:13"/>
+euery man to pytche them as workes aleye, ſo that the pitcher whiche ſhall fortune to pytche any ſuche tynne<g ref="char:EOLhyphen"/>worke or tynworkes, for defaute of renuinge of them, as is aboue ſayde, pitche the tynworke or tynworkes before the feaſt of all ſaynctes next folowinge after the ſayde feaſte of ſayncte Myghel, and alſo geue warning to the owner or owners of the pitche of the ſaide tynne<g ref="char:EOLhyphen"/>worke or tinworkes, before the ſaide feaſt of al ſaintes in the preſence of .iii. or<g ref="char:punc">▪</g> 
+                  <gap reason="illegible" resp="#APEX" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>ne of the ſayd warnyng, the ſaide pitcher ſh<gap reason="illegible" resp="#APEX" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>ak<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> the ſaide owner or owners that he ſo warneth of the ſayd pitche of his ſayde Tynneworke or tynworkes, by the arme, ſhe winge to hym with a lowde voyce, that he may here him, the cauſe of his pitche, and the daye when he pit<g ref="char:EOLhyphen"/>ched the ſayde tinworke or tynneworkes, and alſo the ſayde pitcher at the nexte Tynne Courte holden where ſuche tynneworke lyethe in, nexte after the ſayde war<g ref="char:EOLhyphen"/>nynge geuen to the ſayde owner or owners, at the be<g ref="char:EOLhyphen"/>ginninge of the ſayde Courte, ſhall cauſe the ſtewarde of the ſame courte or his deputie for the tyme beyng to enter into his boke that ſhall remayne in the Courte at all tymes of recorde the name of his pitche, that is to wete, his owne name, and all his felowes names na<g ref="char:EOLhyphen"/>med to be pitchers of the ſayde tynneworke, the tynne<g ref="char:EOLhyphen"/>workes name, the owner or owners names that he ſo warned, and the daye and place when he gaue them ſu<g ref="char:EOLhyphen"/>che warning, and therupon the ſaide ſteward or his de<g ref="char:EOLhyphen"/>putie for the time beinge in the ſame courte, and in the other ſtannary courtes next folowinge, wherin the ſaid tynworke ſieth not: when the Stewarde or his depu<g ref="char:EOLhyphen"/>tie ſhall thincke moſte people to be preſente, ſhal make proclamation of the ſayde pitche, and warnynge of the ſaide olde owner or owners of the ſayde tynneworke
+<gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb facs="tcp:5597:14"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb facs="tcp:5597:14"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb facs="tcp:5597:15"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb facs="tcp:5597:15"/>
+                  <pb facs="tcp:5597:16"/>
+or tynworkes, orels the ſaide pitche to be voide and of none effecte, taking of the ſaid pitche for his labour .viii. d. and then after the laſt proclamation of the ſayde iiii. Courtes, the ſaid owner or owners of the ſaid tyn<g ref="char:EOLhyphen"/>worke or tynworkes ſhal haue lybertie by the ſpace of iii. monthes, to proue his or their ſaid tinworke or tin<g ref="char:EOLunhyphen"/>workes to be truely kept, according to this acte, at the ſaide tynworkes head, that the ſaid owner or owners, or one of their parteners within the ſaide .iii. monthes ſet one lefull daye to the ſaide pitche, when the ſaid ow<g ref="char:EOLunhyphen"/>ner or owners or ther kepr wil proue his or their ſaid tinworke or tynworkes, and at that day ſo appoynted by the ſaide owner or owners, the ſayde pitcher ſhall giue attendaunce at the ſaide tinworke, from the ſonne ryſing tyll the going downe of the ſonne, to here when the ſaide owner or owners, or kept accordinge to this acte, and if the ſaide owner or owners of the ſaide tyn<g ref="char:EOLhyphen"/>worke or tynworkes nor their kepte do not proue his or their ſaide tynworke kepte accordynge to this acte, within the ſaid thre monthes, and at the day by him or them to the pitcher ſo appoynted (if the ſaide pitcher be there redy to here their proue) as is aboue ſayde, that then the ſaide pitcher to haue the ſaid tinworke to him and to his heyres for euer, accordinge to the cuſtome of the Stannarie.</p>
+               <p>¶ And it is further enacted &amp; ordeyned, that if the ſaid pitcher at the ſaide daye appoynted by the ſaide owner or owners, to proue their ſaid tinworke or tinworkes do worne or let the ſaide owner or owners or their ke<g ref="char:EOLhyphen"/>per to proue their ſaide tinworke or tinworkes, or ab<g ref="char:EOLhyphen"/>ſent him ſelfe, and will not here their proue as is aboue ſpecifyed, that then the ſaid owner or owners ſhal com to the next tincourt holden, where their tinneworke ſo
+<pb facs="tcp:5597:16"/>
+pitched lieth in and enter their ſarmiſe of the letting of their proue, againſt the ſaid pitcher, wherupon a ſcire facias ſhalbe awarded againſt the ſaide pitcher to ap<g ref="char:EOLhyphen"/>pere at the next court, and at the nexte court or at ſuche court when the ſcire facias ſhalbe returned, ſued by the baylife of the ſame court, or by any other perſon by the ſteward auctoriſed for the ſame, that if the ſaid pitcher nor no perſon for him do not appere, that then the ſayde owner or owners or their keper, at the court ſhalbe ad<g ref="char:EOLunhyphen"/>mitted to proue theyr ſayde tynworke or tinworkes in the courte, and the ſaide pitcher ſhal loſe his pitche and for fayte .xx. li. The one halfe thereof to our ſoueraygne lorde the kyng, hauing no prince, &amp; when god ſhal ſend vs a prince to the lord prince, and the other halfe to the ſaid owner or owners, and proceſſe for the leuieng ther<g ref="char:EOLunhyphen"/>of to be awarded as it hath ben vſed vpon other penal<g ref="char:EOLhyphen"/>ties, &amp; if the ſaide pitcher do appere vpon the ſuynge of the ſaid ſcire facias, then the ſayde pitcher ſhall haue a day ouer to make aunſwere to the ſaide owner or ow<g ref="char:EOLhyphen"/>ners to their byll of ſurmiſe tyll the next court, if he wil praye the ſame, and at which courte if the ſaide pitcher can nothing ſay, but he pitched the ſaid tynworke of the ſayde owner or owners, and gaue them or any of them warnynge according, whiche matter will appere of re<g ref="char:EOLhyphen"/>corde in the Stewardes booke, as is aboue ſpecifyed, wherupon the ſaide owner or owners ſet hym a daye of proue, as is aboue ſpecifyed, that then if the ſaid owner or owners brynge into the courte or the next court folo<g ref="char:EOLunhyphen"/>wynge .iiii. or .v. tynners, prouing ſufficiently that the ſayde owner or owners or their keper were at the daye by them aſſigned to the ſaide pitcher at the tynworkes head, redy to proue their ſayd tynworke lefully kepte, accordyng to this ſtatute, &amp; that the ſayde pytcher war<g ref="char:EOLunhyphen"/>ned
+<pb facs="tcp:5597:17"/>
+him or them, or abſent him ſelfe to the ſaid owner or owners or their keper coulde proue their ſaid tinwork or tynworkes, then the ſaid owner or owners, or the keper ſhalbe admitted to proue their ſaide tinworke or tinworkes in the ſame courte by the ſteward, or his de<g ref="char:EOLunhyphen"/>putie for the time beyng, without delaye, and there to recouer their worke, and the ſaid pitcher ſhal fal in the penaltie of .xx. li. the halfe therof to our ſoueraigne lord the kyng, hauinge no prince, and when god ſhall ſende vs a Prince, then to the lorde Prynce, and the other halfe to the ſayde owner or owners, and proceſſe for the leuiynge thereof to be awarded as it hath ben vſed vpon other penalties.</p>
+               <p>¶ Prouided that if the ſaid pitcher do lefully proue by iiii. or .v. Tynners before the Stewarde or his depu<g ref="char:EOLhyphen"/>tie at the ſayde courte, that he ſhall haue daye ouer to emparal, that at the day of proue apointed by the ſame owner or owners, that he gaue attendaunce to the hed<g ref="char:EOLhyphen"/>weare of the ſayd tinworke that he pitched, ſuppoſinge to be the hedwere of the ſame tinworke that he pitched and the ſaid owner or owners or their keper come to a nother hedweare, whiche parteyneth to the ſame tyn<g ref="char:EOLhyphen"/>worke that the ſaid pitcher pitched, and gaue warning of that, that then the olde owner or owners or their ke<g ref="char:EOLunhyphen"/>per ſhall proue their ſaid tinworke or tinworkes in the tincourte or at the nexte courte there holden, and therby the ſayde pitcher to loſe no penaltie but only his pitche, and the ſayde owner owners to recouer but onelye the tynworke or tynworkes.</p>
+               <p>¶ Prouyded alſo that after ſuch pitchyng and warning geuen of any tynworke or tynworkes by any perſon or perſons, that if the ſayde pitcher be not knowen by the partie that warned of a pitche, or els he aboyde the cou<g ref="char:cmbAbbrStroke">̄</g>
+                  <g ref="char:EOLunhyphen"/>trey,
+<pb facs="tcp:5597:17"/>
+ſo that the ſaide owner or owners of the ſaid tyn<g ref="char:EOLhyphen"/>worke or tynworkes can not come by hym, to ſet hym a daye of profe of his ſaide tynworke or tynworkes by hym ſoo pitched, that then the ſayde owner or owners ſhal enter or cauſe to be entred in the ſaid tyncourt with in the ſaide .iii. monethes next after the laſte proclama<g ref="char:EOLunhyphen"/>tion of the ſayde courtes, that wyll proue theyr ſayde tynworke or tynworkes at a certayne daye by the ow<g ref="char:EOLhyphen"/>ner or owners to be lymitted within the ſaide .iii. mon<g ref="char:EOLhyphen"/>thes, that they or theyr keper at their ſaid workes hed and thereupon at the ſame courte, and at the .iii. other ſtannarie courtes, where as the ſayde tynworke lyethe not, then nexte folowinge the Stewarde ſhal cauſe the bayliffe to make open proclamation of the day that the ſaide owner or owners wyll proue their ſaid tynworke or tinworkes at their tynworkes head, at whiche day if the ſaide pitcher come not at their ſaid tinworkes hed to haue their proue as is aboue ſaide, he ſhall loſe hys pitche, and the ſaid owner or owners ſhal recouer ther ſaide tinworke or tynworkes, and the ſayde pitcher to fall in the penaltie of .x. li. the one halfe therof as is a<g ref="char:EOLhyphen"/>boue ſpecified, &amp; for the ſame proclamations to be made the ſayd owner or owners ſhal geue the ſteward .viii. d</p>
+               <p>¶ And alſo be it affirmed &amp; enacted, that the acte made at Crockerentorre aforeſaide, the .xxiiii. daye of Sep<g ref="char:EOLhyphen"/>tember, in the ſecond yere of the raigne of our ſoueraine lord kyng Henry the .viii. of and for the kepyng of all tinworkes within the ſaid ſtannarie, and euery thynge conteyned in the ſame acte, be from henceforthe vtterly voide and of none effecte.</p>
+               <p>¶ Alſo that where out of time (that no mynd is) it hath ben vſed within all the ſtannarie of Deuonſhyre, that euery perſon working many ſtremeworkes ſhuld kepe
+<pb facs="tcp:5597:18"/>
+their grauel, robel, and ſand, vnder the ſwerd of graſſe and by force of the water to conuey it to the great riuer becauſe it ſhuld hurt no mannes paſture nor quirte any tinworke. And nowe it is ſuppoſed by certaine inhabi<g ref="char:EOLhyphen"/>tauntes of the hauen townes of Dertmouth and Plim<g ref="char:EOLunhyphen"/>mouth within the ſaide countie, that the ſaid robel, gra<g ref="char:EOLunhyphen"/>uell, and ſandes, decendeth by reaſon of the great flud<g ref="char:EOLhyphen"/>des to the ſaide hauen townes, wherby in continuance it ſhulde greatly hurte and quyrte the ſaid hauens, whi<g ref="char:EOLunhyphen"/>che god forbede. Wherfore be it enacted and ordeyned, by aucthoritie of this preſent courte, that euery perſon or perſonnes that hereafter ſhall worke in any ſt<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eme<g ref="char:EOLhyphen"/>worke, or cauſe any ſtremeworke to be wrought, that they and euery of them conueye and cary or cauſe to be conueied and caryed, the grauell, robell, ſandes, in olde atches, tippettes, miry places, or other conuenient pla<g ref="char:EOLunhyphen"/>ces, from the ſaid great riuers, ſo that the ſaide grauel robel and ſandes, be not conueyed to the ſayde hauens of Dertmouth and Plymmouth, or any of them hereaf<g ref="char:EOLunhyphen"/>ter ſhalbe decaied or hurted vpon peine of ſuch fyne and fines, as hereafter ſhalbe by the lord warden or his de<g ref="char:EOLhyphen"/>putie, ſeſſed or ſet vpon euery perſon or perſons, for eue<g ref="char:EOLunhyphen"/>ry defaut ſo offendyng contrary to the prouiſion of this ſtatute, to the vſe of our ſoueraigne lord the king. &amp;c. if any ſuch defaute be found by verdicte of .xii. men at the laweday, at any of the ſaid .iiii. Stannarie courtes.</p>
+               <p>¶ Prouided alway that no perſon or perſons conuey or brynge their grauell, robel, or ſandes into any hatches tyes, or waterlettes of any tynworke, while the ſayde tynworke is in workyng, and if any perſon or perſons do, the partie greued ſhall haue lyke remedy by actyon as it hath ben hertofore euer vſed for the ſame offences this acte not withſtandynge.</p>
+               <p>
+                  <pb facs="tcp:5597:18"/>¶ Alſo be it enacted and affirmed, that euerye perſon or perſons, that hereafter ſhall worke in any hatche wor<g ref="char:EOLunhyphen"/>kes, nygh the riuer of Dert, Tamer, or any other gret riuer, that deſcendeth to the ſaid hauens of Dertmouth and Plimmouth or any of them ſhall turne or cauſe to be tourned their lake waters into their hatches that they haue wrought, and theron conuey their grauel, ro<g ref="char:EOLunhyphen"/>bell, and ſandes from the great ryuer, ſoo that it be not conueyed to the ſaide hauens, or any of theim, whereby the ſayd haue<g ref="char:cmbAbbrStroke">̄</g>s or any of them hereafter, ſhalbe decaied or hurted, vpon like peyne as is next aboue ſpecifyed.</p>
+               <p>¶ Alſo that where at the great court holden at Crocke rentorre the .xxiiii. daye of September, the .ii. yere of the raigne of our ſaid ſoueraigne lorde kyng Henry the viii. that it was enacted and ordeined, that if any per<g ref="char:EOLhyphen"/>ſon or perſons being warned of the pitche of any tynne<g ref="char:EOLhyphen"/>worke or tynworkes, and did not proue their ſaid tin<g ref="char:EOLhyphen"/>worke or tynworkes, within .iii. monethes next folo<g ref="char:EOLhyphen"/>winge, and after that, if the ſaid owner or owners did ſue, vexe, or trouble the ſaid pitcher after the ſaide .iii. monthes, or enter into the ſaid tinworke, ſhulde fall in the penaltie of .xx. li. if it were founde by verdite of .xii<g ref="char:punc">▪</g> men at the ſuite of the partie, by force of whiche ſtatute many and diuers ſubtil perſons haue craftly pitched di<g ref="char:EOLhyphen"/>uers tynworkes, &amp; haue geue<g ref="char:cmbAbbrStroke">̄</g> crafty warnings of their pitche to the owners of the ſaid tinworkes, which war<g ref="char:EOLunhyphen"/>ning the ſaide owners haue not perceiued nor hard and ſometime the ſaid owner or owners haue continued day<g ref="char:EOLunhyphen"/>ly working in the ſaide tinworkes, at the tyme of the ſaide warninge, and ſoo tyll after the ſaide .iii mone<g ref="char:EOLhyphen"/>thes expired and ſomtimes the ſaide pitches after they haue geuen ſuche warnynge of the pitche of their ſayde tinworke to the ſaide owner or owners haue abſent the<g ref="char:cmbAbbrStroke">̄</g>
+                  <g ref="char:EOLunhyphen"/>ſelfe,
+<pb facs="tcp:5597:19"/>
+ſo that the ſaid owner or owners coulde not mete with them to ſet a day to proue their ſaide tinworkes, within the ſaide .iii. monethes, accordynge to an other ſtatute therof made and prouided, ſo after the ſaide .iii. monethes were expired, the ſaid owner or owners had no remedy to ſue the ſaid pitcher for their lefull remedy but they ſhuld fal in the penaltie aboue ſpecifyed, wher<g ref="char:EOLhyphen"/>by the ſaid owners haue loſt many of their tinworkes, and alſo forfayted the ſaid penalties in the ſame ſtatute aboue ſpecified, to their vtter vndoinge.</p>
+               <p>¶ Wherefore be it enacted &amp; ordeyned by vertue of this great court, that the ſaid act made in the .ii. yere of our ſouerain lord the king, &amp; euery thing in the ſame act co<g ref="char:cmbAbbrStroke">̄</g>
+                  <g ref="char:EOLunhyphen"/>teyned be fromhenſeforth vtterly void &amp; of none effect.</p>
+               <p>¶ Alſo be it affirmed &amp; enacted, that fromhenſeforth no bailiffes of the ſtannarie ſhall take of any perſon or per<g ref="char:EOLunhyphen"/>ſons, that hereafter ſhalbe arreſted vpon any nichil, or for ſuertie of peace, aboue .vi. d. and that the keper of Lidforde nor his deputie ſhal take of any perſon or per<g ref="char:EOLunhyphen"/>ſons that hereafter ſhalbe arreſted vpon a nichil, or for ſuertie of peace any fees vnles the parties ſo areſted be brought to the pryſon of Lydford, &amp; that the keper ſhal take of euery ſuche priſoner for his fees but .ii. s. vi. d. &amp; for his meat and drinke according to the olde cuſtom heretofore vſed, vpon peine of .xx. s. for euery time that the ſaide keper or baliffe doth contrary to this ſtatute, if it be founde at the lawday in any of the ſaid .iiii. ſtan<g ref="char:EOLhyphen"/>nary courtes, the one halfe to our ſoueraigne lorde the king, and the other halfe to the partie greued.</p>
+               <p>¶ Alſo be it affirmed &amp; enacted, that no bayliffe ne bay<g ref="char:EOLhyphen"/>liffes bringe no perſon ne perſons to the priſon of Lyd<g ref="char:EOLhyphen"/>forde that hereafter ſhalbe arreſted by a nichil, except it be vpon an execucion of a condempnacion: if the perſon
+<pb facs="tcp:5597:19"/>
+or perſons that ſo ſhalbe arreſted, fynde or bring to the ſaid bailiffe or bailyffes ſure &amp; ſufficient ſuerties to an<g ref="char:EOLhyphen"/>ſwere the partie plaintife at the next court after the ſaid arreſt, vpon peine of .xx. s. for euery tyme ſo offendynge the one half therof to our ſoueraigne lord the king, and the other halfe to the partie greued if it be found by <gap reason="illegible" resp="#APEX" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>dite of xii. me<g ref="char:cmbAbbrStroke">̄</g> at a lawday in any of the .iiii. Stanna<g ref="char:EOLhyphen"/>rie courtes. ¶ Alſo be it affirmed &amp; enacted, that the ſteward or his deputie for the time being, ſhal take for the crowning of any perſon, not aboue .ii. s. &amp; the bathe for his returne of the iury for the ſame, not aboue .vi. d. vpo<g ref="char:cmbAbbrStroke">̄</g> peine of euery ſuche defaut xx. s. the one halfe. &amp;c.</p>
+               <p>¶ Alſo be it affirmed and enacted, that no perſon ne per<g ref="char:EOLunhyphen"/>ſons from henſeforthe be admytted to any eſſoyne vpon any iſſue to be tried after .xii. men haue appered, &amp; that it ſhalbe leful to the partie playntife or plaintiffes vpo<g ref="char:cmbAbbrStroke">̄</g> euery iſſue to be tried after the iury returned, one tyme to be aſſoyned, according to our olde cuſtome, &amp; in lyke<g ref="char:EOLunhyphen"/>wiſe the defendante or defendantes, ſo the ſaide eſſoyne be layde before .xii. men haue appered. &amp;c.</p>
+               <p>¶ Alſo be it affirmed and enacted, that euery Tinner or Tynners within the ſayde ſtannarie ſhal make or cauſe to be made before the ſaide feaſt of ſaincte Mighell the archaungell next commynge theyr hedweares and tai<g ref="char:EOLhyphen"/>les, like a brode hoked arrowe in all drye tynworkes, and halfe hokes in all tynneworkes adioyninge to any Ryuer, vppon peine of a reſonable fyne to be ceaſſed by the lorde warden or his deputie, if it be founde by ver<g ref="char:EOLhyphen"/>dite of .xii. men at a lawe daye in any of the ſayde .iiii. Stannarie courtes.</p>
+               <trailer>Finis ſecundi libri.</trailer>
+            </div>
+         </div>
+         <div type="confirmation">
+            <pb facs="tcp:5597:20"/>
+            <p>
+               <seg rend="decorInit">I</seg>N the highe court of our ſoueraigne lord the Kynge in his Duchery of Cornewal, holden at Crockerentorre, in the countie aforeſayde before Phillipp Champernon Knight, in the ſtede of Henry Marques of Exceſter, warde<g ref="char:cmbAbbrStroke">̄</g> of the tin<g ref="char:EOLhyphen"/>ners vnder our ſoueraigne the king in the foreſaid coun<g ref="char:EOLunhyphen"/>tie of Deuonſhire, the .xxv. daye of September, the xxv. yere of the raigne of kinge Henry the .viii.</p>
+            <div type="part">
+               <head>The names of the Jurates.</head>
+               <list>
+                  <head>xxiiii. Jurats in the ſta<g ref="char:cmbAbbrStroke">̄</g>na<g ref="char:EOLhyphen"/>rie court of Chaggoforde.</head>
+                  <item>John Batiſhyll</item>
+                  <item>Wylliam Noſeworthy</item>
+                  <item>John Newecombe</item>
+                  <item>Wylliam Hore</item>
+                  <item>Godfrey Loſkey</item>
+                  <item>Wylliam Rugge</item>
+                  <item>John Shyre</item>
+                  <item>John Endecote</item>
+                  <item>Thomas Ilbert</item>
+                  <item>John Frey of Manaton</item>
+                  <item>John Parre of Heanocke</item>
+                  <item>William voyſe</item>
+                  <item>John Frenſhe</item>
+                  <item>John La<g ref="char:cmbAbbrStroke">̄</g>gworthy of Hattiſhil</item>
+                  <item>John Rowe of Berydon</item>
+                  <item>Thomas Caſelegh</item>
+                  <item>John Coyſſhe</item>
+                  <item>Richarde Abraham</item>
+                  <item>John windyate of Grendo<g ref="char:cmbAbbrStroke">̄</g>
+                  </item>
+                  <item>Alexander Drayton</item>
+                  <item>James Benet</item>
+                  <item>Simon Tauerner</item>
+                  <item>Rycharde Crote</item>
+                  <item>John Glanfylde</item>
+                  <item>xxiiii. Jurats in the ſta<g ref="char:cmbAbbrStroke">̄</g>na<g ref="char:EOLhyphen"/>rie courte of Aiſſheberton</item>
+                  <item>Thomas Predyaux</item>
+                  <item>Wylliam Cowarde</item>
+                  <item>John Bery ſenior</item>
+                  <item>John Veal</item>
+                  <item>John Voyſe</item>
+                  <item>Robert Hamlyn</item>
+                  <item>Richarde Taylor</item>
+                  <item>John Maddok of blakeal</item>
+                  <item>Thomas Hamlyn</item>
+                  <item>John Dolbeare</item>
+                  <item>Ri. langworthy of leſewel</item>
+                  <item>John Horſham</item>
+                  <item>Jo. la<g ref="char:cmbAbbrStroke">̄</g>gworthy of Bukla<g ref="char:cmbAbbrStroke">̄</g>d</item>
+                  <item>Wylliam Smith</item>
+                  <item>Jo. widecombe of bukela<g ref="char:cmbAbbrStroke">̄</g>d</item>
+                  <item>Wylliam Bouicombe</item>
+                  <item>John Stiddeſton</item>
+                  <item>Thomas Wodde</item>
+                  <item>
+                     <pb facs="tcp:5597:20"/>Thomas Phillipp</item>
+                  <item>Richarde Quoyſſhe</item>
+                  <item>William Leer</item>
+                  <item>John Dybell</item>
+                  <item>Hary Paty</item>
+                  <item>Robert Hanworthy</item>
+               </list>
+               <list>
+                  <head>xxiiii. Jurats in the ſta<g ref="char:cmbAbbrStroke">̄</g>na<g ref="char:EOLhyphen"/>rie court of Plimton.</head>
+                  <item>¶ Richarde Chalons</item>
+                  <item>Nicolas Thorney</item>
+                  <item>John Maſon</item>
+                  <item>Thomas Forde</item>
+                  <item>John Luſcombe</item>
+                  <item>Walter Stondon</item>
+                  <item>John Fote</item>
+                  <item>Rychard Abbot</item>
+                  <item>Wyllyam Chapell</item>
+                  <item>Water Elforde</item>
+                  <item>John Browne</item>
+                  <item>John Med of Shitſtor</item>
+                  <item>John Hedde</item>
+                  <item>Edmond Lange</item>
+                  <item>John Meyeow</item>
+                  <item>Andrew Walker</item>
+                  <item>Wyllyam Towſen</item>
+                  <item>John Stert</item>
+                  <item>Hary Canterell</item>
+                  <item>Wyllyam Martyn</item>
+                  <item>Thomas Brounſdon</item>
+                  <item>John Bacer</item>
+                  <item>Roger Bond</item>
+                  <item>Wyllyam Bendr</item>
+               </list>
+               <list>
+                  <head>xxiiii. Jurats in the ſta<g ref="char:cmbAbbrStroke">̄</g>na<g ref="char:EOLhyphen"/>rie courte of Tauiſtocke</head>
+                  <item>¶ Roger Langyſforde</item>
+                  <item>John Cole of Peterſtau<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </item>
+                  <item>Richarde Darke</item>
+                  <item>John Atwyll</item>
+                  <item>John Stutworthy</item>
+                  <item>Hary Crees</item>
+                  <item>Water Borrowe</item>
+                  <item>John Redeclyffe</item>
+                  <item>John Wyllyams</item>
+                  <item>John Brounſdon</item>
+                  <item>John Wattes</item>
+                  <item>John Gie of Horebr<g ref="char:cmbAbbrStroke">̄</g>g</item>
+                  <item>Rafe Eſton</item>
+                  <item>Roger Pagge</item>
+                  <item>Roger Gyll</item>
+                  <item>John <gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>at<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>oke</item>
+                  <item>Water Langiſford</item>
+                  <item>Water Knygton</item>
+                  <item>Marten Edward</item>
+                  <item>John Hopar</item>
+                  <item>John Godyng ſen<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.</item>
+                  <item>Water Gladfylde</item>
+                  <item>Wyllyam Pryor</item>
+                  <item>Thomas Stondon.</item>
+               </list>
+               <p>¶ That certaine Jurates, as is aforeſayde, the electe ſworne and tried men with the aſſent &amp; conſent of al the Tynners in the foreſaide countie of Devonſhire, haue
+<pb facs="tcp:5597:21"/>
+enacted, affirmed, ordeyned &amp; ſtatute, and by theſe pre<g ref="char:EOLhyphen"/>ſentes ſtabliſhe that as well all ſtatutes nowe of late made, as al other ſtatutes hereafore time there made &amp; affirmed before theſe ſtatutes dothe at the laſte courte there they adnichylate and ſet as voyde, other there af<g ref="char:EOLhyphen"/>ter made to remayne and ſtande in full ſtrength &amp; effect as more playnely appereth.</p>
+            </div>
+            <div type="part">
+               <p>WHere before this time diuerſe &amp; many Tynners in the ſaid countie of Deuonſhire haue geuen a<g ref="char:EOLhyphen"/>way all their tinworkes, ſome of them to their childre<g ref="char:cmbAbbrStroke">̄</g> and ſome of them to other perſons of their kin and fren<g ref="char:EOLhyphen"/>des, &amp; ſome of theym haue ſuffered recoueres to be had againſt them to that intent they wold be fro<g ref="char:cmbAbbrStroke">̄</g> henſeforth reputed &amp; taken as no tinners, by meane whereof they haue by that couin and crafte, diſcharged them ſelfe as wel of their apparance in the ſtannarie courtes, as alſo of al other contributions and charges which by reaſon of the ſaid tinworkes ought to ſupport and beare with other tinners, accordyng to the olde cuſtome of the ſaid ſtannarie: and yet that not withſta<g ref="char:cmbAbbrStroke">̄</g>ding the ſaid geuers and other perſons againſt who<g ref="char:cmbAbbrStroke">̄</g> ſuch recouers were had of the ſaid tinworkes, haue all times after ſuch giftes and recouers had and made taken therof the iſſues and profites to their owne vſe.</p>
+               <p>¶ Wherfore be it affirmed and enacted from henſeforth, by auctoritie of this preſent courte, that as well al ſuch perſon or perſons that before this or nowe be ſeaſed or that hereafter ſhall be ſeaſed of and in any tinworke or parte of any tinworke, be it of a ſtate in fee ſymple, fee<g ref="char:EOLhyphen"/>taile, or for terme of lyfe or lyues, that haue made or hereafter ſhal make any gyft or leaſe of all his or their whole tinworke or tinworkes to any of their ſaid chyl<g ref="char:EOLunhyphen"/>dren, or to any other perſon or perſones to his or theyr
+<pb facs="tcp:5597:21"/>
+vſe, or haue or hereafter ſhal ſuffer any ſuche recouers to their vſe, or to the vſe of the ſaid geuers hereafter do of the ſaid tinworke or tinworkes, or of any part of the<g ref="char:cmbAbbrStroke">̄</g> take any iſſues and profites or any other annuel rent &amp; profite, by any ſuch colour to his own vſe, fro<g ref="char:cmbAbbrStroke">̄</g> henſforth to be reputed &amp; taken for tinners, as thoughe no ſuche gift, recouery, or leaſſe had be made, and to beare their contributio<g ref="char:cmbAbbrStroke">̄</g>s &amp; charges amongeſt other tinners of the ſaid ſta<g ref="char:cmbAbbrStroke">̄</g>narie, according to the olde cuſtome of the ſame &amp; if any ſurmiſe or complaint be made to the lorde war<g ref="char:EOLhyphen"/>den of the ſaid ſtannary for the time beinge or to his de<g ref="char:EOLhyphen"/>putie or ſteward of the ſame ſtannary other knowledge be had or miniſtred to the officers of any ſuch perſon or perſo<g ref="char:cmbAbbrStroke">̄</g>s that ſo doth take the iſſues &amp; profits of any ſuch tinworke or tinworkes or part therof, or thereof hath the vſe, and denieth him to be take<g ref="char:cmbAbbrStroke">̄</g> &amp; reputed as a tinner that then the ſaid lord warde<g ref="char:cmbAbbrStroke">̄</g>, his deputie, or ſtewarde of the ſaid ſta<g ref="char:cmbAbbrStroke">̄</g>narie courts, ſhal haue auctoritie to ward a precept of ſcire facias againſt the partie, vpon whom any ſuch ſurmiſe, co<g ref="char:cmbAbbrStroke">̄</g>playnte or other knowledge ſhalbe had or made, co<g ref="char:cmbAbbrStroke">̄</g>maunding him by the ſame to appere at the next tincourt, wherin the partie then ſhal dwel, be<g ref="char:EOLhyphen"/>fore the lord warde<g ref="char:cmbAbbrStroke">̄</g>, his deputie or ſtewarde, then to be holden, at which day if he do appere in the one ti<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>coure, the trothe therof to be tried by the other, or other of the ſaid perſon or perſons that ſhalbe called in by the ſaide ſcire facias, whether he or they ſo called do take the iſ<g ref="char:EOLhyphen"/>ſues and profites of the ſame tinneworke or tinworks or any other perſon or perſonnes to his or their vſe, or of any parte of them, or elles that any other perſone or perſonnes do thereof ſtande and be ſeaſed to his or their vſe, and if the ſaide partie after he is returned warned, do make defaute, that then his or theyr defaute i<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> the ſame Courte to be recorded, and <gap reason="illegible" resp="#APEX" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> that, the ſame
+<pb facs="tcp:5597:22"/>
+ſame partie or parties ſhalbe ſtill accepted &amp; taken for a tinner or tinners, till any ſuch perſon or perſons will of his or their owne frewyll come into the ſaid court &amp; diſcharge them ſelfe by his or their othes, in fourme a<g ref="char:EOLhyphen"/>foreſaid, and if any perſon from henſeforth after any ſu<g ref="char:EOLhyphen"/>che othe made, do againe accepte and take any iſſues &amp; profytes of any ſuch tynworke or tinworkes, then vpo<g ref="char:cmbAbbrStroke">̄</g> due information, profe, or knowledge had to the ſayde officers in fourme afore ſaid, in any court of the Stan<g ref="char:EOLhyphen"/>narie, within the iuriſdiction wherof any ſuch tinwor<g ref="char:EOLhyphen"/>kes lye or ſhalbe, that they or any of them dothe or ſoo ſhal take any iſſues &amp; profite, that like proceſſe be eft<g ref="char:EOLhyphen"/>ſone made againſte the ſaide parties and like order and othe to be had in fourme afore ſaide.</p>
+               <p>¶ Prouided alwaies that if it happen any ſuche tinner or tinners, whiche hath or will geue away his or their ſaid tinworke or tinworkes, &amp; ſaith or depoſeth that he or they taketh no profite to his or their owne vſe, nor that any other perſon or perſons ſtandeth ſeaſed to his or their vſe, and be &amp; will be reputed and taken as noo tinner nor tinners, as before is mencyoned that then it ſhalbe leful to al other tinners to ſue &amp; be at lybertie a<g ref="char:EOLhyphen"/>gainſt any ſuch perſon or perſons that ſo denieth to be a tinner or tinners, in fourm aforeſaid, in any other place out of the .iiii. Stannarie courtes, vnto ſuch time that al ſuche perſon or perſons which ſo denieth to be tinner or tinners, in fourme aforeſaid, happen to be a tinner a<g ref="char:EOLhyphen"/>gaine, and alſo enter his or their name or names into the ſtewardes rolles or boke of recorde in the ſame ſta<g ref="char:cmbAbbrStroke">̄</g>
+                  <g ref="char:EOLhyphen"/>narie court where as any ſuch perſon then ſhall happen to dwell, and at the ſame tin court to cauſe the ſteward or his deputie for the time beinge to proclayme him or them as a tinner or tinners againe, any ſuche cuſtome
+<pb facs="tcp:5597:22"/>
+or ſtatute made, vſed, or prouided to the contrary in any wyſe, not withſtandinge.</p>
+               <p>¶ Alſo be it affirmed and enacted, that no perſon ne per<g ref="char:EOLunhyphen"/>ſons from henſeforth take away any tyn gathered in a<g ref="char:EOLhyphen"/>ny tinworke, where ſo euer it be be founde from the ow<g ref="char:EOLunhyphen"/>ner or owners or other occupiers of the ſaide tinworke or tinworks, which haue borne or hereafter ſhal beare the coſtes &amp; charge for the gatheringe and workinge of the ſame, but the ſaid perſon or perſons ſo claiming the ſaid tin or tynworke, may lefully cauſe the ſaide owner or owners, or occupier or occupiers to be attached by the ſaid tin ſo gathered, where ſo euer it be founde vpon a plainte by the ſaide claime to be affirmed againſte the ſaid perſon or perſons that ſo hath gathered the ſaid tin in the ſame Stannarie court, wherin the ſaid tinwork or tinworkes, &amp; the ſame tin ſo to be gathered liethe or ſhall lye, and therupon the ſaid owner or owners or o<g ref="char:EOLhyphen"/>ther occupier or occupiers of the ſame tinworke or tyn<g ref="char:EOLhyphen"/>workes, that be ſo attached by their ſaid tin, ſhal finde ſufficient ſuerties to the bailife or his deputie, by who<g ref="char:cmbAbbrStroke">̄</g> the ſa<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>de attachement ſhalbe ſo made, or by his deputie or any other, by the ſteward of the ſame court being ly<g ref="char:EOLhyphen"/>mitted where as the ſaid tin is gathered, accordinge to the lawe and cuſtome of the ſaid ſtannarie, to aunſwere the ſaid claimer at the next tin court holden, nexte after the ſaide attacheme<g ref="char:cmbAbbrStroke">̄</g>t ſo had and made, within the whi<g ref="char:EOLhyphen"/>che courte where as the ſaid tinworke or tinworkes ſo in variaunce lieth or ſhal lye, and after the ſaid ſuertie founde, the ſaid tinner ſo attached to be deliuered to the ſaid perſon or perſons ſo attached. And if any perſon or perſons from henſeforth with force or otherwiſe take a waye any tin ſo gathered, &amp; hathe borne no charges for the working therof, as is abou<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#APEX" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+                  <g ref="char:punc">▪</g> 
+                  <gap reason="illegible" resp="#APEX" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+                  <g ref="char:punc">▪</g> that th<gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> the
+<pb facs="tcp:5597:23"/>
+ſaide perſon or perſons ſo taking away the ſaid tinne af<g ref="char:EOLunhyphen"/>ter due profeſſion of the partie or parties ſoo offendinge before the ſayd lorde warden, his deputie or Steward, he or they ſo offendynge ſhall be commytted to the pry<g ref="char:EOLhyphen"/>ſon of Lydforde, and there to remayne tyll he make fine with the lorde warden or his deputie or ſtewarde, and the ſayde takinge awaye of any ſuche tynne be founde, as before is expreſſed by verdite of .xii. men at any lawe courte there holden after, at the ſuite or complaynte of the partie greued, then he that ſo taketh awaye any ſu<g ref="char:EOLhyphen"/>che tynne ſhal fal in the penaltie of .xl. li. the halfe ther of to our ſoueraigne lorde the kynge or Prynce, when it ſhall pleaſe god to ſend vs a Prince, and the other to the partie ſo greued, and for execution therof a prcepte of a Fierie facias to be awarded, as well for our ſoue<g ref="char:EOLhyphen"/>raigne lorde the kynge or the Prince, as for the partie complainaunte and greued. ¶ Prouided alwaies that if there be from henſforth any action co<g ref="char:cmbAbbrStroke">̄</g>menced againſt any perſon or perſons by vertue of this preſent act and ſtatute, that then the defendant or defendantes to haue one court day ouer to imparle, to make his or their an<g ref="char:EOLhyphen"/>ſwere. And if the ſaide defendant and defendantes wyl pitche to haue it, and there at the nexte courte after to make him or them aunſwere at his or their perill with out delaye.</p>
+               <p>¶ Alſo be it affirmed and enacted, that if any perſon or perſons be taken by his body at the ſuite of any partie, vppon any plainte or plaintes commenced in any of the ſaid .iiii. ſtannarie courts, and the ſaid partie at whoſe ſuite he or they whiche ſhall be ſo taken and impriſoned at Lidford, be after ward none ſuite in his or their ſaid action or actions, that then the ſaid partie or parties ſo beinge nonſutie in his or their ſayde action or actions,
+<pb facs="tcp:5597:23"/>
+ſhall yelde and paye ſuche coſtes and damages to the ſaide perſon or perſons ſo taken and impryſoned as ſhal be adiudged and demed by the lord warden, his deputie or ſtewarde for the time beinge, and a fieri facias to be awarded for the leuyeng of the ſame, to the vſe of the party ſo to be impriſoned vpo<g ref="char:cmbAbbrStroke">̄</g> a precept of returne made by the baylife at the day of returne of the ſame, that the partie ſo beinge nonſuted had no goodes ne cattel wher of he might or ſhall make execution by the ſaid fieri fa<g ref="char:EOLhyphen"/>cias, as that then a precepte of a capias to be awarded by the courte to attache the body of the ſaide perſon ſoo beyng nonſued, and the day of returne, where if the ſame partie by the ſaide Capias be broughte into the courte, or other wiſe in propre perſon do appere, then he to pay the ſayde coſtes and damages, or elles to be commyt<g ref="char:EOLhyphen"/>ted to the priſon of Lydforde, there to remayne tyll he or they haue payde it.</p>
+               <p>¶ Alſo be it affirmed and enacted, that if any perſon or perſons from henſforthe take away any blacke tyn, or tinſtones out of any tynne worke or any other place by night or by day, without he or they which taketh away any ſuch tin or tinſtones, do the owner or owners or his or their parteners, or his or their workemanne whiche haue borne the charges of the working of the ſame, be<g ref="char:EOLhyphen"/>ing owners of the ſame tinworke to knowledge therof, which haue borne the coſtes and charges for the wor<g ref="char:EOLhyphen"/>king of the ſame tin with him or them, or their ſpaliers of the ſame tinworke, which hereafter ſhall worke and gather the ſame tin, that t<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>en he or they ſo offending, if it may be duely proued before the lord warde<g ref="char:cmbAbbrStroke">̄</g> his depu<g ref="char:EOLhyphen"/>tie or ſteward for the time being, by examinatio<g ref="char:cmbAbbrStroke">̄</g> in open court, or by way of actio<g ref="char:cmbAbbrStroke">̄</g> tried &amp; condemned, or by preſe<g ref="char:cmbAbbrStroke">̄</g>t<g ref="char:EOLunhyphen"/>mente and verdite of .xii. men at the lawe courte of the
+<pb facs="tcp:5597:24"/>
+Stannarie, wherein the ſaid tinworke lieth, that then the ſaid offender or offenders by the ſaide lorde Warden his deputie, or ſtewarde to be co<g ref="char:cmbAbbrStroke">̄</g>mitted to the pryſon of Lydforde: vnleſſe he or they ſo offending can finde ſuffi<g ref="char:EOLhyphen"/>cient ſuerties to paye or recompence the partie or par<g ref="char:EOLhyphen"/>ties greued for his or their Tin ſo taken awaye, &amp; alſo to make fine with the lord warden his deputie or Ste<g ref="char:EOLhyphen"/>warde, for his or their vntrue demeanoure and offence wherof the one halfe ſhalbe to our ſoueraigne lorde the kyng or prince, &amp; the other halfe to the vſe of the whole body of the Stannarie beinge Tinners.</p>
+               <p>¶ Alſo be it affirmed and enacted from henſeforth that if any perſon or perſons do make any vnlefull labour to any enqueſt ſworne in any of the .iiii Stannarie cour<g ref="char:EOLhyphen"/>tes, or do manaſſe or threten them or any of the<g ref="char:cmbAbbrStroke">̄</g> to paſſe with the one partie or the other, or promiſe the<g ref="char:cmbAbbrStroke">̄</g> any mo<g ref="char:EOLunhyphen"/>neye or other rewarde, to geue their verdite, that then the ſaid perſon or perſons ſo makinge the ſaide vnleful labour, or manaſing or thretening the ſaide enqueſt, or promiſing them any money or reward vnlefully for ge<g ref="char:EOLunhyphen"/>uinge of their ſaid verdite of .xii. men at the lawday by the great enqueſt, or by verdite of .xii. men at the ſuite of the partie greued, that then the ſaid enbracers or of<g ref="char:EOLhyphen"/>fenders ſo offendyng, ſhalbe committed to the pryſon of Lidforde, there to remayne vnto ſuche time that he or they ſo offending contrary to the prouyſion of this ſta<g ref="char:EOLhyphen"/>tute, haue made fine for the ſame with the lorde warde<g ref="char:cmbAbbrStroke">̄</g> or his deputie, or ſteward for the time beyng, and beſi<g ref="char:EOLhyphen"/>des that, if it be found by verdite of .xii. men at the ſuite of the partie greued, by accion of the ſame imbracery &amp; <gap reason="illegible" resp="#APEX" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> full labour, and that proceſſe of a capias for his bo<g ref="char:EOLunhyphen"/>dy, or a Fieri facias for his goodes to be awarded, at the election of the partie that ſhalbe ſo greued, as well
+<pb facs="tcp:5597:24"/>
+for ſatisfaction of the kynge or Prince <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s for ſatiſfacti<g ref="char:EOLhyphen"/>on of the ſame partie greued.</p>
+               <p>¶ Prouided alwaies that al ſuch perſons as be or here<g ref="char:EOLunhyphen"/>after ſhalbe parties to any action ſued by the<g ref="char:cmbAbbrStroke">̄</g> or any of them, or againſt them or any of them in any of the ſayde ſtannarie courtes, wherupon the ſaid parties be or ſhal be at iſſue, and all ſuch other perſons as then haue any intereſt, right, or title to the thing in demaunde or va<g ref="char:EOLhyphen"/>riaunce, or their leful ſolicitours may well and lefully labour the ſaide inqueſtes to appere &amp; to geue their ver<g ref="char:EOLunhyphen"/>dite accordinge to ſuche euidence as ſhall be geuen vnto them, according to their conſcience &amp; not otherwiſe.</p>
+               <p>¶ Alſo be it affirmed and enacted, that where as diuers perſons being owners and parteners, or hereafter ſhal be owners &amp; parteners, which be nowe ſeaſed or here<g ref="char:EOLhyphen"/>after ſhalbe ſeaſed ioyntly together, of and in any tinne<g ref="char:EOLhyphen"/>worke or tinworkes, and if the whole title of the ſame tinworke or tinworkes be or ſhalbe in varyaunce, &amp; if any of the ſaid owners and partners from henſforth do refuſe to ſupporte and beare ſuch maner of charges and expenſes in the lawe, with his or their pateners of the ſame tinworke ſo in variaunce according to their porti<g ref="char:EOLunhyphen"/>on and partes, as they &amp; euery of them haue or hereaf<g ref="char:EOLhyphen"/>ter ſhal haue in the ſame tinworke or tinworkes of for and about the ſuite and trial of the title of the ſame tin<g ref="char:EOLhyphen"/>worke or tinworkes ſo being in variaunce, or herafter ſhalbe in varyaunce, if he or they be required therto by his partener or parteners of the ſame tinne worke, that then he or they that ſo wyll refuſe to beare and pay his or their parte or partes, accordinge to his or their por<g ref="char:EOLhyphen"/>tion or portio<g ref="char:cmbAbbrStroke">̄</g>s of the ſame tinworke indifferently char<g ref="char:EOLunhyphen"/>ged to receiue or take any profyte of his or their part or partes of the ſame worke ſo beinge in varyaunce vnto
+<pb facs="tcp:5597:25"/>
+ſuch time he or they haue paide him or their ſaid coſtes and charges for the harme to him or their ſaid fellowe now <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>g or herafter ſhalbe owner or owners, partner or partners with him or them of the ſame Tinwork or tinworkes, which is or ſhalbe in variaunce, according to the olde cuſtome of the Stannarie.</p>
+               <p>¶ Alſo be it affirmed &amp; enacted, that if any perſonne or perſons beinge now peaſeably ſeaſed of and in any tyn<g ref="char:EOLhyphen"/>worke or parte of any tynworke in the countie of De<g ref="char:EOLhyphen"/>uonſhire at this preſent great court holden at Crocke<g ref="char:EOLhyphen"/>rentorre, and ſo continued to Mighelmas coynage peaſ<g ref="char:EOLunhyphen"/>ably ſeaſed without clayme or title made in open court, by any perſon or perſons to the ſame, &amp; entred in a boke or roll that ſhall hereafter be apointed &amp; remaine in the ſaid court of recorde, within the iuriſdiction of whiche court the ſaid tinwork is or lieth, he or thei that ſo haue continued peaſeably their poſſeſſio<g ref="char:cmbAbbrStroke">̄</g> in any ſuch tinwork or tinworkes, ſhall haue the ſaide tinworke or part of the tinworkes to them and to their heyres in fee fore<g ref="char:EOLhyphen"/>uer, according to the cuſtome of the ſtannarie.</p>
+               <p>¶ Prouided alwayes that this acte extende not nor be preiudiciall to any woman count infant within the age of .xvi. yeres, any perſonne beinge out of the realme, or beinge in priſon or being lunatike or out of his mynde, ſo that any of the ſaid perſo<g ref="char:cmbAbbrStroke">̄</g>s, that is to ſay, that women couert, after the deceaſſe of their huſba<g ref="char:cmbAbbrStroke">̄</g>d, within y<hi rend="sup">e</hi> ſpace of .ii. yeres, &amp; their heires &amp; the ſaid perſo<g ref="char:cmbAbbrStroke">̄</g>s ſo impryſo<g ref="char:EOLhyphen"/>ned within the ſpace of<g ref="char:punc">▪</g> ii. yeres after they be at theyr libertie of their ſaid impriſo<g ref="char:cmbAbbrStroke">̄</g>ment, and the ſaid perſons beinge out of this realme, and hauing no knowledge of this act within like ſpace of .ii. yeres, or lacking know<g ref="char:EOLunhyphen"/>ledge thereof, within the ſpace of one yere after his or their co<g ref="char:cmbAbbrStroke">̄</g>ming into Englande, or any of the heyres of the ſaide perſon or perſons, after tyt<gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> to him or them geue<g ref="char:cmbAbbrStroke">̄</g>
+                  <pb facs="tcp:5597:25"/>
+by the death of his or their auncetours within one yere then next folowing, if any of the ſaid perſons before ex<g ref="char:EOLhyphen"/>cepted dye within the ſaid two yeres do make their cla<g ref="char:EOLunhyphen"/>ime by action in any of the ſaide ſtannary courtes, wher<g ref="char:EOLunhyphen"/>as any of the ſaide tynworkes lye.</p>
+               <p>¶ Alſo for as much by occaſion of euidence geuen by cor<g ref="char:EOLunhyphen"/>rupte and vntreue witneſſe to inqueſtes ſworne within the .iiii. ſtannarie courtes betwene partie &amp; partie, vn<g ref="char:EOLhyphen"/>true verdites haue be geuen to the great hurt and preiu<g ref="char:EOLunhyphen"/>dice of many tinners, wherfore be it enacted &amp; affirmed that from henſeforth if any perſon or perſons geue any falſe euidence, and commit periurie in his euidence ge<g ref="char:EOLhyphen"/>uen in any of the ſayd ſtannarie courte to enqueſt or en<g ref="char:EOLhyphen"/>queſtes ſworne betwene partie &amp; partie, &amp; if he or they that ſhal geue any ſuch falſe euidence and commit p<gap reason="illegible" resp="#APEX" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>rie, be found coulpable and giltie by verdite of .xii. men at a law court in the ſame ſtannary court where as the ſame falſe euidence and periurie ſhalbe committed, that then he or they that ſo ſhal offende ſhalbe committed to the pryſon of Lidford, there to remaine vnto ſuch time that he or they can fynd ſufficient ſuerties to make fyne with the lorde warden his deputie or ſtewarde for the tyme, to the vſe of our ſoueraigne lorde the kynge, ha<g ref="char:EOLhyphen"/>uing no prince, and when it ſhall pleaſe god to ſende vs a Prynce to the lorde Prince.</p>
+               <p>¶ Alſo be it affirmed &amp; enacted that al ſtatutes &amp; a<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>tes made at this great preſent court before this time, &amp; not adnulled to ſtand in their full grength and force, &amp; that a fieri facias ſhalbe awarded aſwell vpon euery of the ſaid ſtatutes now ſtanding in their force, as alſo vpo<g ref="char:cmbAbbrStroke">̄</g> all ſuche ſtatutes &amp; actes as now be made at this preſente great court or parliament holden and kepte at Crocke<g ref="char:EOLhyphen"/>rentorre aforeſaid.</p>
+               <trailer>Finis.</trailer>
+            </div>
+         </div>
+         <div type="confirmation">
+            <pb facs="tcp:5597:26"/>
+            <head>The confirmation of the Charter in Engliſhe with the Satutes made in the ſyxth yere of the raygne of kinge Edwarde the .vi.</head>
+            <p>¶ Here foloweth the confirmation of the Charter par<g ref="char:EOLhyphen"/>teyning to al the Tinners within the countie of Deuon<g ref="char:EOLunhyphen"/>ſhire with their ſtatutes alſo made at Crockerentorre, by the whole aſſent and conſent of all the ſayde tinners, in the yere of the raigne of our ſoueraygne lorde kynge Henry the .viii. the .ii. yere.</p>
+            <p>HEnry by the grace of god kinge of Englande and Fraunce, lorde of Irelande, To all and ſinguler to who<g ref="char:cmbAbbrStroke">̄</g> theſe preſentes letters ſhal come greting. We vnderſtand by the letters patentes of the late ſoue<g ref="char:EOLhyphen"/>raigne lorde Edwarde the fourth kyng of Englande a Confirmation made by theſe wordes.</p>
+            <p>¶ Edwarde by the grace of god king of Englande and Fraunce, lord of Ireland, To all to whom theſe preſen<g ref="char:EOLunhyphen"/>tes ſhall come greting. We vnderſtand by theſe letters patentes of the ſoueraigne lord Edwarde the .iii. late king of England our progenitour made in theſe words ¶ Edwarde by the grace of god kyng of Englande and Fraunce, and lord of Ireland, To al to whom theſe pre<g ref="char:EOLunhyphen"/>ſent letters ſhall come gretyng. We vnderſtand by our letter late cauſed to be made vnder oure ſeale at our re<g ref="char:EOLhyphen"/>tournyng into Englande by theſe wordes.</p>
+            <p>¶ Edwarde by the grace of god kyng of England lorde of Irelande, and Duke of Aquitaine, To all Archeby<g ref="char:EOLhyphen"/>ſhops, byſhoppes, abbots, priours, Earles, Barons, Juſtices, ſhereffes, gouernours, and miniſters, and to all bayliffes and other his faithfull greting. We vnder<g ref="char:EOLunhyphen"/>ſtande by a writinge confirmed whiche lorde Edwarde late kynge of England our father cauſed to be made to the tinworkes of the cou<g ref="char:cmbAbbrStroke">̄</g>ty of Deuon. in theſe wordes.
+<pb facs="tcp:5597:26"/>
+¶ Edwarde by the grace of god kyng of Englande and Fraunce, lord of Ireland, and Duke of Aquitaine, To all archbiſhoppes, biſhops, abbottes, Priours, <gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ries Barons, Juſtices, ſhireffes, gouernous, miniſters, &amp; to all bailiues and other his faithful gretinge. We vn<g ref="char:EOLhyphen"/>derſtande by wrytinge which the lord Edward of noble memory ſo<g ref="char:cmbAbbrStroke">̄</g>time king of Engla<g ref="char:cmbAbbrStroke">̄</g>d our father made to the tinworkers of the cou<g ref="char:cmbAbbrStroke">̄</g>tie of deuo<g ref="char:cmbAbbrStroke">̄</g>ſhire in theſe wordes. ¶ Edwarde by the grace of god king of Englande lord of Irelande, and Duke of Aquitaine. To all Achebyſ<g ref="char:EOLhyphen"/>ſhops, biſhops, abbottes, priours, earles, barons, iu<g ref="char:EOLhyphen"/>ſtices, gouernours, miniſters, and to all bayliffes and other his faythfull gretynge.</p>
+            <div type="part">
+               <p>
+                  <seg rend="decorInit">B</seg>E it knowen for the amendment of our ti<gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>i<g ref="char:EOLunhyphen"/>ners within the countie of Deuone, and for the quietnes &amp; profite of the workemen ther<g ref="char:EOLunhyphen"/>of, to graunt for vs and our heyres, that all the miners afore ſaide labouringe in theſe mynes whi<g ref="char:EOLhyphen"/>che be of oure dominion or patronage, ſo longe as there worke in thoſe mynes, that they be free and quite from all plees quarellinge touching our courte or any of our heires, in what maner ſoo euer it be, ſo that they ſhall not be bounde to apere before any Juſtice or miniſter of oures or of our heyres, for any plee or quarell commen<g ref="char:EOLunhyphen"/>ced within the ſaide worke of tinnage, but onely before the warden of our mynes aforeſaid for the time beinge, excepte it be in plea of land, lyfe, and lym, nor they ſhal not departe from their workes by any ſommon of any officer of oures or of our ſucceſſours, but onely by the arreſt of our ſaid warden: and alſo that they be quite &amp; free from Tallages, Stallages, with cuſtomes &amp; ſuch charges what ſo euer they be, within towne, port, <gap reason="illegible" resp="#APEX" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>e
+<pb facs="tcp:5597:27"/>
+or market within the ſaide countie, of any goodes thei haue. Alſo we graunt vnto the ſaid miners for the dig<g ref="char:EOLunhyphen"/>ginge of tyn and for the fynding therof, that they maye breake any grounde within any parte of our open land, moore, or waſte, or of any other mannes, who ſo euer it be, within the countie aforeſaid. Alſo that they may change the courſe of waters and waters ſtandinge, for the furtherance of their workes, when and as oft as it <gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>lb<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>de. Alſo to bye buſhement for the meltinge of the tin, according to the olde cuſtome, without impedy<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#APEX" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> eyther of vs or of any of our ſucceſſours, or yet of biſhops, abbottes, priours, earles, baro<g ref="char:cmbAbbrStroke">̄</g>s or any other who ſo euer they be. And that our foreſaid warden or his vicegerent do kepe &amp; haue before him al plees that ſhall ariſe or may be entred betwixte any of the ſaid mi<g ref="char:EOLhyphen"/>ners amongeſt them ſelues or any other with them, he to haue full power to geue iudgement, &amp; deciſe the mat<g ref="char:EOLhyphen"/>ter according to auncient cuſtome, and if it chaunce any of the minours ſo to offend, that for the ſaid offence our warde<g ref="char:cmbAbbrStroke">̄</g> haue areſted him &amp; apoint him to priſo<g ref="char:cmbAbbrStroke">̄</g>, we will that he be in priſon in Lydford &amp; none other place, vntil he be diſcharged by proces of the lawe of our Realme. And if it happe<g ref="char:cmbAbbrStroke">̄</g> any of the miners aforeſaid for any fact co<g ref="char:cmbAbbrStroke">̄</g>mitted within the ſaid cou<g ref="char:cmbAbbrStroke">̄</g>tie, not apperteining to the ſaid miners, and putteth himſelfe to the enquerie of the cou<g ref="char:cmbAbbrStroke">̄</g>trey: we wil that the one halfe of the queſt of inque<g ref="char:EOLhyphen"/>ry be of the co<g ref="char:cmbAbbrStroke">̄</g>pany of the miners, and the other half not of the<g ref="char:cmbAbbrStroke">̄</g> but of forreners in that worke: &amp; if any fact com<g ref="char:EOLhyphen"/>mitted towching his or their mineworke, that the<g ref="char:cmbAbbrStroke">̄</g> que<g ref="char:EOLhyphen"/>rie be made wholly after the cuſto<g ref="char:cmbAbbrStroke">̄</g>e in the miners, &amp; if it happe<g ref="char:cmbAbbrStroke">̄</g> any of the ſaid miners to be fugitife or els outla<g ref="char:EOLunhyphen"/>wed, or haue don ſuch offence, for the which he ſhal loſe or <gap reason="illegible" resp="#APEX" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> his cattel, the ſaid cattel to be praiſed by the <gap reason="illegible" resp="#APEX" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#APEX" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>den and ou<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#APEX" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> within the ſaid countrey,
+<pb facs="tcp:5597:27"/>
+and ſo by him the partie or parties brought forth to an<g ref="char:EOLhyphen"/>ſwere vs or our heires belore the iuſtices apoynted for the ſaid count next aſſiſes folowing. Moreouer we wil &amp; ſtraightly co<g ref="char:cmbAbbrStroke">̄</g>maund that al miners of tin aſwel wh<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t as blacke, where ſo euer it be finde or wronght within the ſaid cou<g ref="char:cmbAbbrStroke">̄</g>tie be weyed at Taueſtocke, Ayſſ<gap reason="illegible" resp="#APEX" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>, <gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> Chagforde, by our weightes ordeined &amp; ſealed for that purpoſe, vnder the forfayture of the ſaid tyn, &amp; that all the tin be coyned or receiue coyning in the foreſaid tow<g ref="char:EOLhyphen"/>nes yerely before our ſaid warden, &amp; before the feaſt of ſai<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ct Mighell in September in the markette place.</p>
+               <p>And we graunt for vs &amp; for our heires, that al tin rey<g ref="char:EOLhyphen"/>ners which hath ſo lawfully w<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ied ther tin may <gap reason="illegible" resp="#APEX" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> the ſame to who<g ref="char:cmbAbbrStroke">̄</g> ſo euer it ſhal chaunce after coynage with other cuſtomes due &amp; vſual in the ſaid townes for vs &amp; our ſucceſſors, if we mid not to bie the ſaid tin our ſeifes ¶ Wherfore we will and co<g ref="char:cmbAbbrStroke">̄</g>maund for vs &amp; for our hey<g ref="char:EOLhyphen"/>res, that our miners aforeſaid haue and mioye all their liberties and fre cuſtomes preſcribed, and this to haue without any let or impediment of vs our heires, or any officer vnder vs, what ſo euer they be, theſe being wit<g ref="char:EOLhyphen"/>neſſes of our will. W. biſhop Couentre and Litchefield S. biſhop of Salſbury, I. biſhop of Kerl<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>l, Henry La<g ref="char:EOLunhyphen"/>
+                  <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y Earle of Lincole, Ralfe of mount Hermor, Earle of Gloceſter, Humfrey of Behem Earle of Eſſere Adome<g ref="char:EOLhyphen"/>re deuale<g ref="char:cmbAbbrStroke">̄</g>tia, Hughe Spe<g ref="char:cmbAbbrStroke">̄</g>ſar, Jo. Haſtinges and other, Dated by our hande at Weſtminſter the. r. of Aprell, the .xxxiii. yere of our raigne. We graunte &amp; confirme for vs &amp; for our eyres ſo much as in our power is, that all theſe confeſſions and liberties be ratified and hadde fre as our foreſaide charter reaſonable witneſſeth theſe honorable being preſe<g ref="char:cmbAbbrStroke">̄</g>t record, W. biſhop of yorke pry<g ref="char:EOLhyphen"/>mate of Engla<g ref="char:cmbAbbrStroke">̄</g>d, W. biſhop of worce<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>er our <gap reason="illegible" resp="#APEX" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>, Gilbert clare. <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ar<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e of Glo<gap reason="illegible" resp="#APEX" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>. &amp; Hardford, I. <gap reason="illegible" resp="#APEX" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+                  <pb facs="tcp:5597:28"/>
+Earle of Surrey, Rob<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rt Clifforde pagan tybot, Ro. Pagare Seneſcallo, huſher of our houſhold with other dated by our hand at Yorke, the .xiiii. day of Auguſt in the .iiii. yere of our raigne.</p>
+               <p>¶ We by the ſame do ratifie theſe grauntes for vs &amp; for our heyres as much as our auctoritie wyl vnto the ſaid miners confirmed as our Charter reaſonable bereth re<g ref="char:EOLunhyphen"/>corde. Therfore we willing to ſhewe the more fauoure vnto the ſaid miners, do graunte for vs and our heyres that the ſame miners ſo longe as they be vnder laboure in the mynes, be quitte free and clerely diſcharged from all tallages, taſkes, contributions and other ſuch pay<g ref="char:EOLhyphen"/>mentes in their goodes within the countie afore ſayde, wytneſſes W. Archebiſhop of yorke, primate of Eng<g ref="char:EOLhyphen"/>land, I. biſhop of Ely our chaunceler, H. biſhop of Lin<g ref="char:EOLunhyphen"/>colne our treaſorer, the Earle of Norfolke &amp; marſhal of Englande, our vncle, Jo. Warrenna Earle of Surrey and the wake, Jo. Bays vſſher of our houſhold, with other dated by our hande at Stanhope, the .vi. of Au<g ref="char:EOLhyphen"/>guſte, the fyrſt yere of our raigne.</p>
+               <p>¶ We by the tenour of our charter vnder our ſeale whi<g ref="char:EOLhyphen"/>che we nowe vſe, and hauinge willed by theſe preſent to be enlarged. In witneſſe whereof we cauſed this letter patentes to be made my ſelfe, bearing witnes at Lang<g ref="char:EOLhyphen"/>ley, the. <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>vii. yere of our raigne of England, and of our raigne of Fraunce the .iiii. yere. We do allowe and ap<g ref="char:EOLhyphen"/>pro<gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> the ſaid letters patentes, and ratifie all thynges in th<gap reason="illegible" resp="#APEX" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> confirmed, for vs for our heyres, to the behofe of the ſaid miners, as our letters aforeſaide, ſufficient<g ref="char:EOLhyphen"/>ly witnes, and for further confirmation we cauſed this letters patents to be made, witneſſing my ſelfe at weſt<g ref="char:EOLunhyphen"/>minſter the .xxvii. day of Nouember, in the fyrſte yere of our r<gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>gne. When &amp; where we confirmed, allowed,
+<pb facs="tcp:5597:28"/>
+and ratified al thinges in the ſaid letters compryſed by our whole power and auctoritie for vs and for our hei<g ref="char:EOLhyphen"/>res, in frendſhip of our labourers in the mynes a<g ref="char:EOLhyphen"/>foreſaide, as our charter and letters patentes doo recorde, and for certaintie thereof we haue cauſed theſe oure letters to be made, witneſſinge my ſelfe at weſtminſter the .xii. daye of Febru<g ref="char:EOLhyphen"/>ary, in the third yere of our raigne.</p>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>The ſtatutes of the Stannarie.</hi> Londini, Anno a Salutifero virginis partu. M. D. LII.</head>
+               <p>
+                  <seg rend="decorInit">D</seg>Euon<g ref="char:cmbAbbrStroke">̄</g> Magna Curia Domini regis Ducatus ſui Cornub. tenta apud Crockerentorre in cornit<g ref="char:cmbAbbrStroke">̄</g> Deuon<g ref="char:cmbAbbrStroke">̄</g> predicto cora<g ref="char:cmbAbbrStroke">̄</g> Johe<g ref="char:cmbAbbrStroke">̄</g> Charles armigero locu<g ref="char:cmbAbbrStroke">̄</g> tenente Joha<g ref="char:cmbAbbrStroke">̄</g>nis Comitis Bedford cuſtod. Stannarij dicti domini Regis in predicto comit<g ref="char:cmbAbbrStroke">̄</g> Deuon<g ref="char:cmbAbbrStroke">̄</g>. viceſimo ſexto die Martij. Anno regni Edvvardi ſexti, dei gratia Angliae, Francie, et Hibernie Regis, fidei defenſoris a<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> in terra Eccleſie Anglicane &amp; Hibernice ſupremi capitis Sexto.</p>
+            </div>
+            <div type="part">
+               <pb facs="tcp:5597:29"/>
+               <head>The names of the Jurates.</head>
+               <list>
+                  <head>xxiiii Jurats of the ſta<g ref="char:cmbAbbrStroke">̄</g>na<g ref="char:EOLhyphen"/>rie court of Chaggoforde.</head>
+                  <item>¶ George Burgin</item>
+                  <item>Richarde Wauerell</item>
+                  <item>William knapman ſenior</item>
+                  <item>John Newcombe</item>
+                  <item>John Pyncent</item>
+                  <item>William knapman Juni.</item>
+                  <item>Harry Wyll.</item>
+                  <item>Robart Foxforde</item>
+                  <item>Auguſtus Noſeworthy</item>
+                  <item>John wauerel alias voiſei</item>
+                  <item>John Eſtbroke alias<g ref="char:punc">▪</g> ſhyl<g ref="char:EOLhyphen"/>ſton</item>
+                  <item>John Martyn</item>
+                  <item>Nicolas Cleyff</item>
+                  <item>Richard Loſkey</item>
+                  <item>Andrew Smardon</item>
+                  <item>John Periman</item>
+                  <item>Wylliam Treud</item>
+                  <item>John Smyth</item>
+                  <item>John weſtcote</item>
+                  <item>Wylliam Ayſſhe</item>
+                  <item>John Balle</item>
+                  <item>John Coyſſhe</item>
+                  <item>Galfridus Chriſtopher</item>
+                  <item>Pancaratius Shere</item>
+               </list>
+               <list>
+                  <head>xxiiii. Jurats of the ſta<g ref="char:cmbAbbrStroke">̄</g>na<g ref="char:EOLhyphen"/>rie court of Plimpton.</head>
+                  <item>¶ Phillipp Hawton</item>
+                  <item>Walter Elforde</item>
+                  <item>John Lu<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>combe</item>
+                  <item>John Aduent<g ref="char:punc">▪</g>
+                  </item>
+               </list>
+               <list>
+                  <head>xxiiii. Jurats of the ſta<g ref="char:cmbAbbrStroke">̄</g>na<g ref="char:EOLhyphen"/>rie courte of Ayſheberton.</head>
+                  <item>¶ Wyllyam Burgyn</item>
+                  <item>Richarde Langworthy</item>
+                  <item>Chriſtofer Warrin</item>
+                  <item>Thomas hamlyn</item>
+                  <item>Richarde Tayler</item>
+                  <item>John Foxforde</item>
+                  <item>John Stydſon</item>
+                  <item>John Horſeham</item>
+                  <item>John Widecombe</item>
+                  <item>John Debyll</item>
+                  <item>John Seyger</item>
+                  <item>Laurence Withecombe</item>
+                  <item>Wylliam Hole</item>
+                  <item>Thomas Bickeforde</item>
+                  <item>James Maddicke</item>
+                  <item>Edward Hanworthy</item>
+                  <item>Walter Stephen</item>
+                  <item>Peter Kynge</item>
+                  <item>Thomas Pers</item>
+                  <item>Richard Hamlyn</item>
+                  <item>Willia<g ref="char:cmbAbbrStroke">̄</g> Wotton alias Byle</item>
+                  <item>Quirinus Rowge</item>
+                  <item>Willyam yolla<gap reason="illegible" resp="#APEX" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>e</item>
+                  <item>Rycharde May<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </item>
+               </list>
+               <list>
+                  <head>xxiiii. Jurats of the ſta<g ref="char:cmbAbbrStroke">̄</g>na<g ref="char:EOLhyphen"/>rie courte of Tauiſtocke.</head>
+                  <item>¶ Henry Lang<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>forde</item>
+                  <item>John Furlong of tamerto<g ref="char:cmbAbbrStroke">̄</g>
+                  </item>
+                  <item>John Badge</item>
+                  <item>Wylliam Burges</item>
+                  <item>
+                     <pb facs="tcp:5597:29"/>Thomas Forde</item>
+                  <item>Walter Rowe</item>
+                  <item>John Worthe</item>
+                  <item>Phillipp Forde</item>
+                  <item>Wylliam Hengſton</item>
+                  <item>Mighell Edgecombe</item>
+                  <item>Hughe Crocker</item>
+                  <item>William Stiddeſton</item>
+                  <item>Frauncis Chappell</item>
+                  <item>John Roſedewe</item>
+                  <item>Richarde Brokyn Juni.</item>
+                  <item>Richarde Holberton</item>
+                  <item>John wyndeal</item>
+                  <item>John Foſter</item>
+                  <item>Rycharde Abbot</item>
+                  <item>John Baker de Torre</item>
+                  <item>Henry Hanger</item>
+                  <item>John Elforde</item>
+                  <item>Richard Brokyn ſenior</item>
+                  <item>Robert wynſton</item>
+                  <item>John Tucker</item>
+                  <item>Randall Eſton</item>
+                  <item>Robert Ebbiſworthy</item>
+                  <item>John Peterfielde</item>
+                  <item>Thomas Alwyll</item>
+                  <item>Roger Gyll</item>
+                  <item>Henry wylley</item>
+                  <item>Richard Lanſford de bratto<g ref="char:cmbAbbrStroke">̄</g>
+                  </item>
+                  <item>Wylliam Geye</item>
+                  <item>John brouerdſon de ſurton</item>
+                  <item>John Fotte Junio<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </item>
+                  <item>John Tal<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ot de walk<gap reason="illegible" resp="#APEX" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>
+                  </item>
+                  <item>John Hanworthy</item>
+                  <item>John horewill de lid<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ord<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </item>
+                  <item>John Sleman</item>
+                  <item>John Row de cholewill</item>
+                  <item>John Wattes de Beare</item>
+                  <item>John Richard</item>
+                  <item>Nicolas Lugger Junior</item>
+                  <item>John Fot ſenior de bucla<g ref="char:cmbAbbrStroke">̄</g>d<g ref="char:punc">▪</g>
+                  </item>
+               </list>
+            </div>
+            <div xml:lang="lat" type="part">
+               <p>
+                  <seg rend="decorInit">Q</seg>Vi quide<g ref="char:cmbAbbrStroke">̄</g> iurati ſic vt prefert<g ref="char:cmbAbbrStroke">̄</g> electi iurati &amp; triat<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ex aſſenſu &amp; conſenſu omniu<g ref="char:cmbAbbrStroke">̄</g> Stannatoru<g ref="char:cmbAbbrStroke">̄</g> in pre<g ref="char:EOLunhyphen"/>dicto comit<g ref="char:cmbAbbrStroke">̄</g> Deuon<g ref="char:cmbAbbrStroke">̄</g>, enactant affirma<g ref="char:cmbAbbrStroke">̄</g>t ordina<g ref="char:cmbAbbrStroke">̄</g>t ſtatuunt &amp; per preſentes ſtabiliunt quod tam omnia ſta<g ref="char:EOLhyphen"/>tuta nunc de nouo facta, qua<g ref="char:cmbAbbrStroke">̄</g> omnia alia ſtatuta ante hee tempora ibidem facta et affi<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>mata, preter illa ſtatuta qu<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> nunc in iſta curia &amp; in alijs curijs ibidem antea te<g ref="char:cmbAbbrStroke">̄</g>tis adni<g ref="char:EOLhyphen"/>hilantur &amp; euacua<g ref="char:cmbAbbrStroke">̄</g>tur, omnino impoſteru<g ref="char:cmbAbbrStroke">̄</g> permaneant in vigoribus ſuis et effectis vt plenius inferius patebit<g ref="char:punc">▪</g>
+               </p>
+            </div>
+            <div type="part">
+               <pb facs="tcp:5597:30"/>
+               <p>
+                  <seg rend="decorInit">W</seg>Here muche harde and euyll Tynne hath ben here to fore ſundry tymes made coyned with<g ref="char:EOLhyphen"/>in the Stannarie of Deuon without the let<g ref="char:EOLhyphen"/>ter H. ſet vpon the ſame, notwithſta<g ref="char:cmbAbbrStroke">̄</g>ding the ſtatute therof prouided not onely to the great ſlaunder of the Stannarie, but alſo to the great loſſe and hinde<g ref="char:EOLhyphen"/>raunce of marchauntes and other perſonnes that haue boughte and occupied the ſame, whiche is manifeſtlye knowen to riſe and growe by crafty &amp; ſubtil blowinge of ſinder tin with Pite and Colom without the which kinde of blowing of ſinder tyn, no harde or euyll tinne can be made, nor the owners therof myght haue of ſu<g ref="char:EOLhyphen"/>che ſinder but littell or no fruite of aduauntage.</p>
+               <p>¶ For redreſſe and reformation whereof be it affirmed enacted and ordeyned, at this preſente courte, that all tynne hereafter blowen, or to be blowen, vpon the flote after the cuſtomable courſe and maner of blowynge of blacke Tyn being not mixte with harde tin, be alwaie reputed and taken to all intendmentes for good &amp; pure tin. And that all tinne hereafter blowen or to be blo<g ref="char:EOLhyphen"/>wen, with a pite or a ſhorte flote, after the cuſtomable courſe and maner of blowing of ſinder ti<g ref="char:cmbAbbrStroke">̄</g>, whether it be mixt with other tyn or not, be alwaye reputed &amp; taken to al intendmentes for hard tyn, and that the letter H. be ſet vpon the ſame before it be coyned, vpon paine of for faiture of the ſame to the lord Prince, and in defaute of a prince to our ſoueraigne lord the kyng, if it be fou<g ref="char:cmbAbbrStroke">̄</g>d by verdite of. <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ii. men at a laweday. And further if it happen hereafter any ſuch harde tynne to be coyned be<g ref="char:EOLhyphen"/>fore the letter H. be ſet vpo<g ref="char:cmbAbbrStroke">̄</g> the ſame, and ſo put to ſale, or worſe mettall to be couered and hid within the ſame harde tyn, other then the kind or nature of the ſame <gap reason="illegible" resp="#APEX" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>al caſt and beare in himſelfe, or worſe mettall then good
+<pb facs="tcp:5597:30"/>
+tyn to be couered and hyd by falſhed and deceipte with in any other pece of tyn hauing not the letter H. and ſoo coigned and put to ſale, then if vpon complaynte of the buier therof it be founde by verdite of. <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ii. men at a law daye, and proued by the viewe and melting of the ſame tynne, or part therof in open courte, being brought be<g ref="char:EOLhyphen"/>fore the great inqueſt, then &amp; there ſworne for the kyng with all the markes of the ſame vpon one pece not mel<g ref="char:EOLhyphen"/>ted nor broken, within the iuriſdiction of whiche court the ſame tynne was made, that then the firſte owner or owners of the ſame tyn ſhall not onely forfayte the va<g ref="char:EOLhyphen"/>lue of the ſame tyn to the lorde Prynce, for the tyme be<g ref="char:EOLhyphen"/>inge, &amp; for lacke of a Prince then to our ſoueraine lord the king, but alſo ſhall forfaite for euery ſuch falſe pece of tyn .x. li. the one halfe therof to the lord prince, &amp; the other halfe to ſuche perſon or perſons being the buier or buiers of the ſame as ſhall complayne or make ſuite at a laweday for the ſame, be it by byll, information, or o<g ref="char:EOLhyphen"/>therwiſe, &amp; a Fieri facias to be awarded for the ſame, as vpon other penall ſtatutes. And alſo the blower or blowers of the ſame tyn to be ſette openlye in the pillo<g ref="char:EOLhyphen"/>rie in a market daye or a lawedaye, by the ſpace of ſy<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e houres for his or their vntrue demeanour, in attemp<g ref="char:EOLhyphen"/>ting any thinge contrary to this acte. And if the ſayde blower or blowers do after that againe likewiſe offe<g ref="char:cmbAbbrStroke">̄</g>d contrary to this act: that then the ſaid blower or blow<g ref="char:EOLunhyphen"/>ers to incurre ſuch puniſhement as ſhal ſeme to the lord warden or his deputie moſt mete or conuemente. And vpon co<g ref="char:cmbAbbrStroke">̄</g>plainte made by the marchaunte or buier of any pece of tyn, to be hard tin, &amp; the ſame afterwardes in o<g ref="char:EOLhyphen"/>pen court, &amp; in the preſence of the gret enqueſt melted, &amp; proued good, then the ſaid marchaunt or buier ſhal for<g ref="char:EOLhyphen"/>faite for euery ſuch pece found good .x. li. The one m<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>i
+<pb facs="tcp:5597:31"/>
+tie therof to the lord prynce, and for lacke of a prince to the kinges maieſtie, and the other moytie to hym that doth ſue for it, &amp; proces therof to be made as aforeſaid.</p>
+               <p>¶ Alſo be it affirmed &amp; enacted, that if any marchauut or other perſone hereafter buie any tyn, and after that the ſaid tin be founde to be falſely made, contrary to the ſaid acte, and that not with ſtanding the marchaunt or buier &amp; the firſt owner of the ſame by priuy contractes, paymentes, or otherwiſe betwene the<g ref="char:cmbAbbrStroke">̄</g> conceale the vn<g ref="char:EOLhyphen"/>true making therof, wherby condigne puniſhement can not be done &amp; miniſtred to ſuch offendours, according to the ſaid ſtatute, if it be founde by verdite of .xii. men, at a law day: that then they bothe ſhall fall euery of them in the penaltie of .x. poundes for euery pece of tin ſo con<g ref="char:EOLunhyphen"/>cealed, the one halfe therof to our ſoueraigne lorde the king, and to the lord prince, when god ſhall ſend vs a prince, and the other halfe to him that wyll complayne or ſue for the ſame, by bil information or otherwiſe.</p>
+               <p>¶ Alſo be it affirmed and enacted that the acte made at Crockerentorre the .xxiiii. daye of September, in the ſecond yere of the famous kyng, king Henry the eyght of for and concerning ſynder tyn and hard tyn. And alſo that the act made at Crockerentorre aforſaid, the ſame xxiiii. of September, the yere aboue written, of for &amp; concernynge tyn not marchauntable, euery of the ſaide two actes, and all thing and thinges in euery of theym conteyned be from henſe for the vtterlye voyde and of no force nor ſtrengthe.</p>
+               <p>¶ Alſo be it affirmed and enacted, that no perſon or per<g ref="char:EOLunhyphen"/>ſons ſhal ſel or put to ſale any maner of white tyn made &amp; caſt in ſlabbes bloges or ſhockes before it be coigned, vpon paine of forfayture of the ſaide tyn, in maner and fourme aboue ſayde, any acte heretofore made to the co<g ref="char:cmbAbbrStroke">̄</g>
+                  <g ref="char:EOLunhyphen"/>trary
+<pb facs="tcp:5597:31"/>
+not withſtanding, and both the ſellar and the bui<g ref="char:EOLhyphen"/>ar to forfaite euery of the<g ref="char:cmbAbbrStroke">̄</g> .xl. s. for euerye ſlabbe cloge and ſhocke ſo bought &amp; ſolde, if it be founde by verdicte of .xii. men of a lawdaye. The one halfe thereof to the lord prynce, when god ſhal ſende vs a prince, &amp; for lack of a prince then to our ſoueraigne lorde the king, in ma<g ref="char:EOLhyphen"/>ner and fourme as is aforeſaid: and the other halfe to the partie that will ſue or make complaint for the ſame by byll, information, or other wiſe. ¶ Item where it hath ben heretofore of late dayes vſed in euery of the iiii. Stannary courtes, after iſſue ioyned in any actio<g ref="char:cmbAbbrStroke">̄</g> or ſuite betwene partie &amp; partie, that the plaintife ſhal nominate .xii. of the iurours whom he liſt, and the de<g ref="char:EOLhyphen"/>fendaunt other .xii. to try that iſſue, wherby poore men be not onely oppreſſed by riche, but alſo the officers can not do iuſtice, accordinge to righte and equitie, by rea<g ref="char:EOLhyphen"/>ſon of the ſaide euyll vſage.</p>
+               <p>¶ Wherfore be it affirmed and enacted that from hence for the vpon euery Venire facias awarded after iſſue ioy<g ref="char:EOLunhyphen"/>ned in any of the ſayd Stannarie courtes, that the bay<g ref="char:EOLhyphen"/>liffe of the courte for the time beinge, or the foſter of the quarter, if the bayliffe be chalenged by his othe, then &amp; there in open court taken, ſhall immediately returne &amp; nominate to the ſtewarde .xxiiii. honeſt and indifferente tynners, according to the tenour and effect of his wryt or precept taken of the playntife, for euery returne for his fee ſo made .iii. s. iiii. d. and no more, which .xxiiii. perſons ſo returned, the bayliffe of the courte or foſter, that ſo make the returne, ſhal ſommon and warne to ap<g ref="char:EOLhyphen"/>pere at the next tyn court there to be holden, at whiche court, if any of the iurours do make default being war<g ref="char:EOLunhyphen"/>ned, then he to for fayte to our ſoueraigne lord the king and to the lord prince, when god ſhal ſend vs a Pr<gap reason="illegible" resp="#APEX" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+                  <pb facs="tcp:5597:32"/>
+xii. d. iſſues. And at the ſame court if a ful iury do not a pere, orels after apparaunce of a full iury by chalenge of any of the parties the iury is like to remaine vntake<g ref="char:cmbAbbrStroke">̄</g> for default of iurours: that then the lord warden his de<g ref="char:EOLunhyphen"/>putie or ſteward of the court for the time being, vpon re<g ref="char:EOLunhyphen"/>queſt made by the partie plaintife, or by the defendau<g ref="char:cmbAbbrStroke">̄</g>te in the default of the plaintife ſhal haue auctorite by ver<g ref="char:EOLunhyphen"/>tue of this act, to co<g ref="char:cmbAbbrStroke">̄</g>maunde the baylife or the foſter as aforeſaid of the ſta<g ref="char:cmbAbbrStroke">̄</g>narie court for the time being, by his othe, then &amp; there to be taken, to returne name &amp; apoint as often as nede ſhall require, ſo many of ſuch other ha<g ref="char:EOLhyphen"/>ble &amp; indifferent tinners then being preſent in the ſayde ſtannarie court, as ſhal make vp a ful iury, whiche per<g ref="char:EOLhyphen"/>ſons ſo to be named &amp; impaneled by ſuch bailife or foſter ſhalbe added to the former panel, &amp; their names annex<g ref="char:EOLhyphen"/>ed to the ſame. And the lord warde<g ref="char:cmbAbbrStroke">̄</g> his deputie or ſtew<g ref="char:EOLunhyphen"/>ard of the court for the time being, ſhall &amp; may procede to the triall of euery ſuch iſſue, with thoſe perſons that were before impanelled, &amp; with thoſe newely added to the ſaid former panel, by vertue of this act, in ſuch wiſe as they might or ought to haue done, if al the iuroures had ben empanelled vpon the Venire facias awarded to trie the ſaid iſſue. And that euery ſuche triall had after the making of this act ſhalbe as good and effectuall to al intentes conſtructions &amp; purpoſes, as if ſuche tryall had ben had and tried by .xii. of the iurours empaneled and returned vpon the Venire facias awarded to try ſu<g ref="char:EOLhyphen"/>che iſſue. And in caſe ſuch perſons as the ſayd baylyffe or foſter ſhall name &amp; appoint, as is aforeſaid, or any of them, after they ſhalbe called be preſent &amp; do not apere, or after his or their apparau<g ref="char:cmbAbbrStroke">̄</g>ce don wilfully withdraw him or the<g ref="char:cmbAbbrStroke">̄</g> ſelues fro<g ref="char:cmbAbbrStroke">̄</g> the preſence of the court, that then the lorde warden his deputie or ſtewarde, for the tyme
+<pb facs="tcp:5597:32"/>
+beinge ſhall and may ſet .C. iii. s. iiii. d. fine vpon euery ſuch iurour makyng defaulte, or wilfully withdrawing him ſelf as is aforeſaid, the ſaid fine to be leauied in ſuch maner and forme by the bailife of the Stannarie courte as other amerciamentes of the ſaide courte haue been heretofore leuied: and ſo the iſſue ſhalbe tried at the ſame court without further delay, and euery of the .xii. men that be ſworne ſhal haue .xii. d. a peece of the parties for and towardes his iourney for that daies labour, y<hi rend="sup">e</hi> ſame money to be leuied and parted openly in the face of the courte to the iurours, immediatly when they haue geue<g ref="char:cmbAbbrStroke">̄</g> their verdit, or before their verdit, if the matter or actio<g ref="char:cmbAbbrStroke">̄</g> ſhalbe otherwiſe ended, or els for default of paiment of the ſame money to be comitted to Lidforde, there to re<g ref="char:EOLhyphen"/>mayne vntil he hath paied the iurours their ſaid money and if the bailif of the ſaid court or foſter, as aforeſaid do not geue warning to the .xxiiii. that hath firſt returned, and to euery of them then he to paie his or their iſſues, that ſo make default beyng not warned. And that by vertue of this acte, it ſhalbe lawful for both plaintif and defenda<g ref="char:cmbAbbrStroke">̄</g>t to take their chale<g ref="char:cmbAbbrStroke">̄</g>ge to the array &amp; to the pol<g ref="char:EOLhyphen"/>les aſwel of them that be firſt returned, as of them that be ſo named, added and annexed, to the former panell, by the ſaid Baylif or Foſter, and that from henceforth, af<g ref="char:EOLhyphen"/>ter iſſue ioyned, the plaintif, nor the defendant, ſhall caſt no eſſoine, any acte heretofore made, or cuſtome in the Stannary, vſed to the contrarie notwithſtandyng.</p>
+               <p>Prouided alway, and be it affirmed and enacted, that if it happen the bailife and the array to be chalenged by any of the parties, and there vpon the array be quaiſhed that then the bailif to repay vnto the plaintif, the ſu<g ref="char:cmbAbbrStroke">̄</g>me of .iii. s. iiii. d. whiche he before receiued for the making of the returne of the ſaid iurie, as is aforeſaide, and that
+<pb facs="tcp:5597:33"/>
+at the ſame courte there be a Venire facias, directed to the Foſter of the ſame quarter, to make returne for the ſaid matter, as aforeſaid, at the next courte then folow<g ref="char:EOLhyphen"/>yng, &amp; then to procede there in, as before. Alſo be it af<g ref="char:EOLhyphen"/>firmed &amp; e<g ref="char:cmbAbbrStroke">̄</g>acted that if any perſon or perſo<g ref="char:cmbAbbrStroke">̄</g>s at any time hereafter make any vnlawful labour to any bailif of the Stannary courte, or Foſter: for or concernyng any re<g ref="char:EOLhyphen"/>turne by him to be made and impaneled betwene partie and party, or geue or promiſe him or any other perſon or perſons to his vſe &amp; behou<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e, any maner of gift rewarde or porcion of money for the ſame, or to be lefte out of any returne hereafter to be made in the Stannary court, or geue or promiſe any maner of gift, reward, or porcion of money to any man that by the Baylife or Foſter ſhall be retourned in any iurie, whether it be before the makyng of the ſaid retourne or after, for to haue frendſhip or fa<g ref="char:EOLhyphen"/>uour in his or their mattier, other then ſuche porcion of money as to the<g ref="char:cmbAbbrStroke">̄</g> is limitted for their labour at this pre<g ref="char:EOLhyphen"/>ſent courte, or if any perſon or perſons at any time here<g ref="char:EOLhyphen"/>after co<g ref="char:cmbAbbrStroke">̄</g>mit any wilful periurie, or procure any wilfull periurie to be co<g ref="char:cmbAbbrStroke">̄</g>mitted in any of the .iiii. Sta<g ref="char:cmbAbbrStroke">̄</g>narie cour<g ref="char:EOLhyphen"/>tes: that then he y<hi rend="sup">t</hi> ſo laboureth the ſaid baylife or foſter or ſo geueth or promiſeth, as afore is ſaid: and the bailif foſter, or iurour, that ſo taketh any ſuche gift, rewarde, promiſe, or porcion of money, and he that ſo co<g ref="char:cmbAbbrStroke">̄</g>mitteth or procureth wilful periurie, as is aforeſaid, euery of them ſo offending, if it be founde by verdit of .xii. men at a law courte ſhalbe co<g ref="char:cmbAbbrStroke">̄</g>mitted to the priſon of Lidford, their to remaine till ſuche time as he or they can finde ſufficient ſuerties to make fine with the Lorde warden, his depu<g ref="char:EOLhyphen"/>tie or ſtewarde, to the vſe of our ſoueraigne lorde y<hi rend="sup">e</hi> king hauing no prince, &amp; to the lorde prince when God ſhall ſend vs a prince. And beſides that if it be founde by ver<g ref="char:EOLhyphen"/>dict
+<pb facs="tcp:5597:33"/>
+of twelue men at the ſute of the partie greeued, that then euery of them ſo offendyng ſhall fall in the penaltie of .xx. li. the one halfe therof to our ſoueraigne lord<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> the king or prince when god ſhall ſend vs a prince, &amp; the o<g ref="char:EOLhyphen"/>ther to the partie grieued, and a Fieri facias for his or their goodes, or a capias for his or their bodies to be a<g ref="char:EOLhyphen"/>warded as wel for ſatisfaction of our ſaide ſoueraigne lorde the king or prince, as for the partie grieued.</p>
+               <p>¶ Alſo be it affirmed and enacted, that where ſundry tin<g ref="char:EOLunhyphen"/>workes &amp; ſundry partes of tinworkes within the ſtan<g ref="char:EOLhyphen"/>narie of Deuon. herafter be named or co<g ref="char:cmbAbbrStroke">̄</g>teined vpon one letter of attourney if liuery paſſe in one of the ſaide tinne workes or part of the ſame tinworkes, it ſhal fro<g ref="char:cmbAbbrStroke">̄</g> henſe for the enure and be a good ſure &amp; ſufficient liuerie for all the reſidue named or to be named or co<g ref="char:cmbAbbrStroke">̄</g>teined in the ſame letter of attourney, in as large &amp; ample maner as thou<g ref="char:EOLhyphen"/>ghe liuery had paſſed in euery one of the ſaid Tinworks or in euery part ſo named or to be named or conteined, ſo that the very owner of the ſaide parte and partes at the time of the ſaid liuerie, any acte heretofore made to the contrary not withſtanding. And that where any perſon is or ſhalbe ſeaſed of diuerſe &amp; ſundry tinworkes or par<g ref="char:EOLhyphen"/>tes of tinworkes, and wil depart from them al by letter of attourney, if reherſal be made vpon the letter of attor<g ref="char:EOLunhyphen"/>ney of name of one or certaine of his ſaid workes, &amp; the reſt by generall wordes of al his tinworkes, or partes of tinworkes in the countie of Deuonſhire, it ſhalbe as good ſure and effectuall in the lawe, to all intentis con<g ref="char:EOLunhyphen"/>ſtructions &amp; purpoſes, as though ſpeciall reſital of eue<g ref="char:EOLhyphen"/>ry tinwork or part of euery ſuch tinwork had ben made vpon the ſame. And that likewiſe on lyuery made of and in any part or parcell of the ſame, to be as good, ſufficy<g ref="char:EOLhyphen"/>ent, and effectuall in the lawe for the whole, as though
+<pb facs="tcp:5597:34"/>
+liuerie had paſſed ſeuerally in euery parte &amp; parcel ther<g ref="char:EOLhyphen"/>of as aboue is ſaid. And that al gyftes and bequeſtes of ſundry tinworke or tinworkes, be it by general words as is aforeſaid, or otherwiſe by teſtame<g ref="char:cmbAbbrStroke">̄</g>t hereafter made or to be made to any perſon or perſons, although the exe<g ref="char:EOLunhyphen"/>cutoure or executoures of the ſame teſtamente refuſe to proue the ſame be alwaies good, ſure, ſufficient &amp; auay<g ref="char:EOLhyphen"/>lable in the lawe, according to the ſaid teſtamente: any ſtatute, lawe, or cuſtome heretofore had or made to the co<g ref="char:cmbAbbrStroke">̄</g>trary not withſtanding. ¶ Alſo be it affirmed &amp; ena<g ref="char:EOLhyphen"/>cted, that no demurrer in the law vpon any cauſe action or demaund, fro<g ref="char:cmbAbbrStroke">̄</g> henſeforth be allowed or admitted in a<g ref="char:EOLhyphen"/>ny of the .iiii. ſtannarie courtes in the countie of Deuo<g ref="char:cmbAbbrStroke">̄</g>.</p>
+               <p>¶ Alſo be it affirmed &amp; enacted, that no perſon or perſo<g ref="char:cmbAbbrStroke">̄</g>s from henſeforth co<g ref="char:cmbAbbrStroke">̄</g>mence any action in any of the .iiii. ſta<g ref="char:cmbAbbrStroke">̄</g>
+                  <g ref="char:EOLunhyphen"/>narie courtes, except it be for the entring into any tyn<g ref="char:EOLhyphen"/>worke or tynworkes, but onely within ſuch court, with in the iuriſdiction of which court the partie playntife or plaintifes and defendant or defendauntes, or one of the<g ref="char:cmbAbbrStroke">̄</g> ſhall inhabite &amp; dwel at the tyme of the commencemente of the ſame action vpon peine to forfaite and paye to the partie defendau<g ref="char:cmbAbbrStroke">̄</g>t or defendauntes .x. s. of lawful money of England for euery ſuch action co<g ref="char:cmbAbbrStroke">̄</g>menced or to be com<g ref="char:EOLhyphen"/>menced, if the partie defendante or defendantes at his or their apparau<g ref="char:cmbAbbrStroke">̄</g>ce, wyll demaunde &amp; ſue for the ſame, and execution to be awarded for the ſame, accordinge to the lawes and cuſtomes of the ſtannarie, and the plaintiffes to loſe his or their ſaid action or actions, any law or cu<g ref="char:EOLhyphen"/>ſtome heretofore vſed to the contrary not withſtandyng.</p>
+               <p>¶ Alſo where before this tyme diuerſe faygned actions haue ben proſecuted in the ſtannarie courtes, wherunto the defendantes haue ben forced to appere, and ioyne the ſame to a countrey, and the ſayde actions ſo ioyned to a
+<pb facs="tcp:5597:34"/>
+cou<g ref="char:cmbAbbrStroke">̄</g>trey, the plaintiffes haue ſuffered the ſame to be and depend in the courtes, not continued of a longe ſpace, vn<g ref="char:EOLunhyphen"/>tyl ſuche tyme as the ſaid plaintife hath watched his ad<g ref="char:EOLunhyphen"/>uauntage, or the abſence of the ſaid defendaunt and then proceded in the ſame, in the defaulte of the ſaid defenda<g ref="char:cmbAbbrStroke">̄</g>t, not being warned therof, contrary to all right, equitie &amp; good conſcience. ¶ Wherfore be it affirmed and enacted that if any perſon or perſons from henceforth ſhal com<g ref="char:EOLhyphen"/>mence any maner of action in any of the .iiii. ſtannarye courtes, wherunto the defendaunt appereth, and dothe ioyne vnto a countrey, if the ſaid plaintife ſuffer the ſaid matter ſo pleaded to a countrey to remayne, and do not procede &amp; ſet for the his ſuite within .iiii. courtes next ſo lowing: that then his ſaid action vtterly to be voyd and diſco<g ref="char:cmbAbbrStroke">̄</g>tinued, as though it had neuer ben before pleaded.</p>
+               <p>¶ Alſo be it affirmed and enacted, that in al actions <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>om<g ref="char:EOLunhyphen"/>menced in any of the .iiii. Stannary courtes, wherupo<g ref="char:cmbAbbrStroke">̄</g> the damages is not declared aboue the ſomme of v. li. ex<g ref="char:EOLunhyphen"/>cept it be in an action of treſpas, for entring into any tin<g ref="char:EOLunhyphen"/>worke or tinworkes, &amp; the partie defendaunt wyll put the ſame to the triall of the cou<g ref="char:cmbAbbrStroke">̄</g>trey, then there ſhalbe at the next court then folowing .iiii honeſt indifferente tyn<g ref="char:EOLhyphen"/>ners returned appointed and taken vp in the face of the courte, by the bailiffe for the tyme being, by an othe ope<g ref="char:cmbAbbrStroke">̄</g>
+                  <g ref="char:EOLunhyphen"/>ly in the ſaid court to him to be miniſtred to trie the ſayd iſſue, and there to be charged vpon an othe by the ſtew<g ref="char:EOLhyphen"/>arde, for the triall of the ſame matter, and to geue ver<g ref="char:EOLhyphen"/>dicte therin, and aſſeſſe damages &amp; coſtes, according to the order of the lawes of the ſta<g ref="char:cmbAbbrStroke">̄</g>narie, whervpon al prin<g ref="char:EOLunhyphen"/>cipall chalenges are to be allowed, and other to be retur<g ref="char:EOLunhyphen"/>ned, as afore in their ſtede, by the bayliffe. And if he be chalenged, then by the ſteward for the tyme beinge, and the ſteward to haue for his precept to the bailiffe .iiii. d.
+<pb facs="tcp:5597:35"/>
+and the bayliffe for his retourne .iiii. d. ¶ Alſo for as moche as many pitches of ſondrye tynworkes haue ben heretofore entred into the courte rolles or bookes of re<g ref="char:EOLhyphen"/>corde, not withſtanding that many of the<g ref="char:cmbAbbrStroke">̄</g> haue ben ſome time laufully proued by their old owners or the kepers according to the ſtatute therof prouyded, yet alway the ſame pitches remaine in the ſaid bokes, as matter of re<g ref="char:EOLhyphen"/>corde and no recorde of writing to the contrary, whiche in proceſſe of tyme may be a great occaſion of much con<g ref="char:EOLhyphen"/>trouerſie &amp; ſtrife. ¶ Be it therfore affirmed and enacted that if there be any tynworke or tynworkes hereafter pight by any perſon or perſons as a work alay, and the owner or owners or keper of euery ſuche tinneworke ſo pight, do proue the ſame work kept according to the ſta<g ref="char:EOLunhyphen"/>tute therof made &amp; ꝓuided, or y<hi rend="sup">t</hi> the pitcher of any work pitched do releaſe his ſaid pitche, that then the ſaid ow<g ref="char:EOLhyphen"/>ner or owners, or their kepers, or one of them ſhal cauſe the ſtewarde for the time beinge, within ſyxe monethes next after the day of the entring of the ſaid pitche, to en<g ref="char:EOLhyphen"/>tre the ſaide profe or releaſe into his boke directly nexte vnder the place of entry of the ſaid pitch of the ſaid wor<g ref="char:EOLhyphen"/>ke ſo proued or releaſed, wherby it maye there lykewiſe appere &amp; remayne as matter of recorde: ſo that it be ap<g ref="char:EOLhyphen"/>proued ſufficiently before the ſteward in open courte, by ii. or .iii. witneſſes ſworne for the ſame, or by confeſſio<g ref="char:cmbAbbrStroke">̄</g> of the pitcher, or els the ſaide profe &amp; releaſe to be voyde and the ſaid pitche to be good and auaylable, and the ſte<g ref="char:EOLhyphen"/>ward in the day of entring therof, to proclaime the profe or releaſe in open court, &amp; to haue for his labour in that behalfe .iiii. d. &amp; no more. And that it ſhalbe lauful for euery ſuch principal pitcher to releaſe euery ſuch pitche to the old owner or owners, within .iii. monethes next after the day of the laſt proclamation of the ſaid pitch, &amp;
+<pb facs="tcp:5597:35"/>
+not after, &amp; at any place as wel by word as by writing.</p>
+               <p>¶ Alſo be it affirmed &amp; enacted, that if any perſon o<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> per<g ref="char:EOLunhyphen"/>ſons hereafter ſhalbe attached by his goodes or cattals by vertue of any attachement directed oute of any of the foure Stannary courtes, and therupon do finde ſuerties and do not appere at the next court after ſuerties ſo fou<g ref="char:cmbAbbrStroke">̄</g>d that the<g ref="char:cmbAbbrStroke">̄</g> it ſhalbe lauful to the bayliffe of the ſame court where ſuch attacheme<g ref="char:cmbAbbrStroke">̄</g>t ſhalbe made, to returne the ſame perſon or perſons ſo attached to a nichill. Any act or cu<g ref="char:EOLhyphen"/>ſtome hertofore vſed in the ſta<g ref="char:cmbAbbrStroke">̄</g>nary to the contrarye not<g ref="char:EOLhyphen"/>withſtanding. For as much as it is moſt requiſite that the fees of al maner of proces, and the pleadinge of acti<g ref="char:EOLhyphen"/>ons within the ſtannarie courtes, ought to be appara<g ref="char:cmbAbbrStroke">̄</g>te to all ſuters there, wherof they haue tofore ben in great ambiguitie &amp; doubt, ſome payinge more and ſome leſſe.</p>
+               <p>¶ Wherfore be it affirmed and enacted by thauctority of this preſent courte, that the ſtewarde or his deputie for the time being, ſhall haue fro<g ref="char:cmbAbbrStroke">̄</g> henſeforth for euery atta<g ref="char:EOLhyphen"/>chement ſued out .vi. d. and not aboue. And for euery ca<g ref="char:EOLunhyphen"/>pias for the body .vi. d. &amp; not aboue, for euery ſcire faci<g ref="char:EOLhyphen"/>as to cal in proues or witneſſis, wherin is but one name vi. d. &amp; not aboue. For euery warrant of the peace ſuper<g ref="char:EOLhyphen"/>ſedias and recogniſaunce of the peace, euery of the<g ref="char:cmbAbbrStroke">̄</g> .vi. d. And if there be any more names in a Scire facias, for calling of proues, or warrant of the peace, ſuperſedias, or recogniſa<g ref="char:cmbAbbrStroke">̄</g>ce, the<g ref="char:cmbAbbrStroke">̄</g> the ſuer therof to pay for euery name vi. d. for euery deliueraunce but .vi. d. for euery Scire facias vpon the ſtatute of lettinge of profe .ii. s. that is to ſay .vi. d. for the ſcire facias, howe many names ſo e<g ref="char:EOLhyphen"/>uer they be, and .xviii. d for the byl of the ſame ſtatute to be made by the ſteward for euerye ſcire facias, vpon all other penal ſtatutes .xviii. d. that is .vi. d. for euery ſci<g ref="char:EOLhyphen"/>re facias, howe many names ſo euer there be, and xi<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. d.
+<pb facs="tcp:5597:36"/>
+for the byll of the ſame ſtatute, for euery execution .vi. d. And for al other proces but .vi. d. for the declaration of any maner of action laide into the court .iiii. d. in proper perſon, and by attourney, the partie not beinge preſente v. d. and for taking of a day to impleade being in proper perſon .ii. d. And if there be more defendantes in the ſaid actio<g ref="char:cmbAbbrStroke">̄</g> being abſent, to pay attorney peny for euery of the defendau<g ref="char:cmbAbbrStroke">̄</g>tes being abſe<g ref="char:cmbAbbrStroke">̄</g>t, &amp; for the anſwere of any defen<g ref="char:EOLhyphen"/>da<g ref="char:cmbAbbrStroke">̄</g>t or defenda<g ref="char:cmbAbbrStroke">̄</g>tes being ioyntly pleaded, &amp; in proper per<g ref="char:EOLunhyphen"/>ſon .iiii. d. and by attourney the partie not preſent .v. d. The replication &amp; the reioynder laide into the courte in proper perſon or by attourney, euery of them .iiii. d. for entringe of euery conde<g ref="char:cmbAbbrStroke">̄</g>pnation and iudgement, euery of them .iiii. d for euery depoſition written .iiii. d. For eue<g ref="char:EOLhyphen"/>ry intergatory miniſtred in the court in writinge .iiii. d. For entring of euery ſurmiſe vpon the ſtatute of lettyng of proues .vi. d. for the lawe gage of euery defendaunte vi. d. For the eſſoine of euery playnt not pleded, i. d. for y<hi rend="sup">e</hi> continuaunce of euery plainte not pleaded .i. d. for the continuance of euery action pleaded .ii. d. For euery re<g ref="char:EOLhyphen"/>cogniſaunce entring .viii. d. for the copy of the byl of ſur<g ref="char:EOLhyphen"/>miſe .xviii. d. For the copy of euery byll vpon any other ſtatute .xii. d. For the copy of a declaration of treſpas vp<g ref="char:EOLunhyphen"/>pon the caſe .viii. d. For the copy of al other pleas .iiii. d. and not aboue, for any of the matters before mencioned.</p>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <g ref="char:leaf">❧</g> Imprinted at London by VVilliam Seres, dvvelling at the vveſt ende of Paules churche at the ſigne of the Hedgehogge.</p>
+            <p>Anno poſt Chriſtum natum. 1562.</p>
+         </div>
+         <div type="imprimatur">
+            <p>Menſe Maij.</p>
+            <p>Cum priuilegio ad imprimendum ſolum.</p>
+            <pb facs="tcp:5597:36"/>
+         </div>
+      </back>
+   </text>
+</TEI>
